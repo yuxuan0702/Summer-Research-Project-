@@ -1,0 +1,3027 @@
+County,Total_Cases,Perecent_of_State_Cases,Cases_per_100000,Total_Deaths,State
+Jefferson,12730,13.2%,"1,933",234,AL
+Mobile,9493,9.8%,"2,297",209,AL
+Montgomery,6564,6.8%,"2,898",151,AL
+Madison,5269,5.5%,"1,413",35,AL
+Tuscaloosa,4174,4.3%,"1,994",71,AL
+Baldwin,3438,3.6%,"1,540",25,AL
+Shelby,3352,3.5%,"1,540",34,AL
+Marshall,3127,3.2%,"3,231",35,AL
+Lee,2743,2.8%,"1,667",48,AL
+Morgan,2336,2.4%,"1,952",<20,AL
+Etowah,2108,2.2%,"2,061",30,AL
+DeKalb,1792,1.9%,"2,506",<20,AL
+Calhoun,1741,1.8%,"1,533",<20,AL
+Elmore,1739,1.8%,"2,141",39,AL
+Walker,1532,1.6%,"2,412",67,AL
+Houston,1397,1.4%,"1,319",<20,AL
+Dallas,1388,1.4%,"3,732",23,AL
+St. Clair,1379,1.4%,"1,541",<20,AL
+Russell,1307,1.4%,"2,255",<20,AL
+Limestone,1283,1.3%,"1,297",<20,AL
+Cullman,1263,1.3%,"1,508",<20,AL
+Franklin,1255,1.3%,"4,002",20,AL
+Talladega,1187,1.2%,"1,484",<20,AL
+Colbert,1159,1.2%,"2,098",<20,AL
+Escambia,1139,1.2%,"3,109",<20,AL
+Lauderdale,1135,1.2%,"1,224",<20,AL
+Autauga,1096,1.1%,"1,962",22,AL
+Jackson,947,1%,"1,834",<20,AL
+Tallapoosa,900,0.9%,"2,230",80,AL
+Chambers,893,0.9%,"2,685",38,AL
+Blount,874,0.9%,"1,511",<20,AL
+Covington,843,0.9%,"2,275",21,AL
+Dale,820,0.8%,"1,668",23,AL
+Chilton,794,0.8%,"1,787",<20,AL
+Butler,771,0.8%,"3,964",36,AL
+Coffee,762,0.8%,"1,456",<20,AL
+Pike,717,0.7%,"2,165",<20,AL
+Barbour,619,0.6%,"2,507",<20,AL
+Marion,595,0.6%,"2,003",24,AL
+Lowndes,580,0.6%,"5,963",26,AL
+Marengo,544,0.6%,"2,884",<20,AL
+Clarke,522,0.5%,"2,210",<20,AL
+Hale,480,0.5%,"3,276",26,AL
+Perry,464,0.5%,"5,200",<20,AL
+Monroe,460,0.5%,"2,219",<20,AL
+Bullock,458,0.5%,"4,534",<20,AL
+Winston,454,0.5%,"1,921",<20,AL
+Wilcox,429,0.4%,"4,136",<20,AL
+Bibb,421,0.4%,"1,880",<20,AL
+Randolph,407,0.4%,"1,791",<20,AL
+Conecuh,397,0.4%,"3,290",<20,AL
+Pickens,385,0.4%,"1,932",<20,AL
+Sumter,365,0.4%,"2,937",<20,AL
+Lawrence,340,0.4%,"1,033",<20,AL
+Macon,331,0.3%,"1,832",<20,AL
+Crenshaw,328,0.3%,"2,382",<20,AL
+Washington,326,0.3%,"1,997",<20,AL
+Cherokee,283,0.3%,"1,080",<20,AL
+Choctaw,282,0.3%,"2,240",<20,AL
+Geneva,264,0.3%,"1,005",<20,AL
+Henry,261,0.3%,"1,517",<20,AL
+Greene,252,0.3%,"3,107",<20,AL
+Clay,241,0.2%,"1,821",<20,AL
+Lamar,219,0.2%,"1,586",<20,AL
+Fayette,198,0.2%,"1,215",<20,AL
+Cleburne,126,0.1%,845,<20,AL
+Coosa,114,0.1%,"1,069",<20,AL
+Denver,10052,20.3%,"1,382",413,CO
+Arapahoe,7194,14.6%,"1,096",363,CO
+Adams,6307,12.8%,"1,219",175,CO
+El Paso,4832,9.8%,671,137,CO
+Jefferson,4086,8.3%,701,227,CO
+Weld,3635,7.4%,"1,120",142,CO
+Boulder,1997,4%,612,75,CO
+Douglas,1702,3.4%,485,59,CO
+Larimer,1475,3%,413,35,CO
+Eagle,1106,2.2%,"2,006",<20,CO
+Garfield,753,1.5%,"1,254",<20,CO
+Morgan,681,1.4%,"2,343",46,CO
+Pueblo,660,1.3%,392,34,CO
+Logan,649,1.3%,"2,896",<20,CO
+Broomfield,445,0.9%,632,32,CO
+Summit,327,0.7%,"1,054",<20,CO
+Chaffee,295,0.6%,"1,449",<20,CO
+Montrose,292,0.6%,683,<20,CO
+Mesa,289,0.6%,187,<20,CO
+Gunnison,267,0.5%,"1,529",<20,CO
+Alamosa,224,0.5%,"1,380",<20,CO
+La Plata,204,0.4%,363,<20,CO
+Pitkin,181,0.4%,"1,019",<20,CO
+Teller,122,0.2%,481,<20,CO
+Delta,117,0.2%,375,<20,CO
+Fremont,116,0.2%,242,0,CO
+Routt,111,0.2%,433,<20,CO
+Montezuma,109,0.2%,416,<20,CO
+Saguache,106,0.2%,"1,553",<20,CO
+Elbert,102,0.2%,382,<20,CO
+Rio Grande,89,0.2%,790,<20,CO
+San Miguel,80,0.2%,978,0,CO
+Lake,74,0.1%,911,0,CO
+Crowley,72,0.1%,"1,188",<20,CO
+Otero,70,0.1%,383,<20,CO
+Yuma,63,0.1%,629,0,CO
+Prowers,50,0.1%,411,0,CO
+Washington,47,0.1%,958,0,CO
+Grand,45,0.1%,286,<20,CO
+Kit Carson,43,0.1%,606,<20,CO
+Park,42,0.1%,223,<20,CO
+Archuleta,35,0.1%,249,0,CO
+Clear Creek,29,0.1%,299,<20,CO
+Moffat,26,0.1%,196,<20,CO
+Conejos,23,0.0 %,280,0,CO
+Costilla,22,0.0 %,566,0,CO
+Ouray,<20,Not Calculated,Not Calculated,<20,CO
+Huerfano,<20,Not Calculated,Not Calculated,<20,CO
+Jackson,<20,Not Calculated,Not Calculated,0,CO
+San Juan,<20,Not Calculated,Not Calculated,0,CO
+Custer,<20,Not Calculated,Not Calculated,0,CO
+Lincoln,<20,Not Calculated,Not Calculated,0,CO
+Gilpin,<20,Not Calculated,Not Calculated,0,CO
+Baca,<20,Not Calculated,Not Calculated,0,CO
+Bent,<20,Not Calculated,Not Calculated,0,CO
+Cheyenne,<20,Not Calculated,Not Calculated,0,CO
+Rio Blanco,<20,Not Calculated,Not Calculated,0,CO
+Sedgwick,<20,Not Calculated,Not Calculated,<20,CO
+Las Animas,<20,Not Calculated,Not Calculated,0,CO
+Phillips,<20,Not Calculated,Not Calculated,0,CO
+Mineral,<20,Not Calculated,Not Calculated,0,CO
+Dolores,<20,Not Calculated,Not Calculated,0,CO
+Hinsdale,<20,Not Calculated,Not Calculated,0,CO
+Kiowa,0,Not Calculated,Not Calculated,0,CO
+Fulton,19230,9.4%,"1,807",410,GA
+Gwinnett,18854,9.2%,"2,014",244,GA
+DeKalb,13237,6.5%,"1,743",234,GA
+Cobb,12718,6.2%,"1,673",313,GA
+Hall,5847,2.9%,"2,860",88,GA
+Chatham,5441,2.7%,"1,880",74,GA
+Clayton,4790,2.3%,"1,639",103,GA
+Muscogee,4514,2.2%,"2,306",90,GA
+Richmond,3984,1.9%,"1,967",87,GA
+Bibb,3395,1.7%,"2,217",66,GA
+Whitfield,3358,1.6%,"3,209",28,GA
+Henry,3184,1.6%,"1,357",44,GA
+Cherokee,3155,1.5%,"1,219",58,GA
+Lowndes,3077,1.5%,"2,621",37,GA
+Dougherty,2661,1.3%,"3,025",170,GA
+Douglas,2493,1.2%,"1,704",50,GA
+Glynn,2422,1.2%,"2,840",42,GA
+Troup,2238,1.1%,"3,201",67,GA
+Columbia,2088,1%,"1,332",21,GA
+Forsyth,2084,1%,853,22,GA
+Clarke,1894,0.9%,"1,476",<20,GA
+Houston,1871,0.9%,"1,185",51,GA
+Carroll,1811,0.9%,"1,509",47,GA
+Bartow,1772,0.9%,"1,645",61,GA
+Newton,1693,0.8%,"1,515",35,GA
+Paulding,1578,0.8%,936,21,GA
+Colquitt,1521,0.7%,"3,336",22,GA
+Coweta,1425,0.7%,960,22,GA
+Coffee,1416,0.7%,"3,272",25,GA
+Floyd,1388,0.7%,"1,409",<20,GA
+Tift,1297,0.6%,"3,191",35,GA
+Rockdale,1242,0.6%,"1,366",<20,GA
+Barrow,1214,0.6%,"1,458",32,GA
+Bulloch,1175,0.6%,"1,476",<20,GA
+Ware,1113,0.5%,"3,115",25,GA
+Gordon,1106,0.5%,"1,908",23,GA
+Habersham,1102,0.5%,"2,431",48,GA
+Thomas,1057,0.5%,"2,378",41,GA
+Fayette,1047,0.5%,915,26,GA
+Walton,1044,0.5%,"1,104",39,GA
+Jackson,1017,0.5%,"1,394",<20,GA
+Baldwin,1010,0.5%,"2,250",38,GA
+Spalding,893,0.4%,"1,339",41,GA
+Laurens,828,0.4%,"1,741",<20,GA
+Polk,743,0.4%,"1,744",<20,GA
+Sumter,742,0.4%,"2,513",56,GA
+Chattahoochee,734,0.4%,"6,730",<20,GA
+Decatur,728,0.4%,"2,757",<20,GA
+Camden,713,0.3%,"1,304",<20,GA
+Wayne,701,0.3%,"2,342",<20,GA
+Toombs,699,0.3%,"2,605",<20,GA
+Effingham,684,0.3%,"1,064",<20,GA
+Liberty,676,0.3%,"1,100",<20,GA
+Harris,637,0.3%,"1,808",<20,GA
+Walker,635,0.3%,910,<20,GA
+Mitchell,634,0.3%,"2,900",41,GA
+Appling,619,0.3%,"3,367",<20,GA
+Bryan,608,0.3%,"1,534",<20,GA
+Catoosa,593,0.3%,877,<20,GA
+Stephens,588,0.3%,"2,268",<20,GA
+Gilmer,571,0.3%,"1,820",<20,GA
+Murray,564,0.3%,"1,407",<20,GA
+Lee,527,0.3%,"1,757",22,GA
+Upson,496,0.2%,"1,884",46,GA
+Butts,476,0.2%,"1,909",37,GA
+Jefferson,469,0.2%,"3,053",<20,GA
+Tattnall,466,0.2%,"1,843",<20,GA
+Emanuel,459,0.2%,"2,027",<20,GA
+Grady,453,0.2%,"1,839",<20,GA
+Washington,448,0.2%,"2,199",<20,GA
+Monroe,441,0.2%,"1,599",25,GA
+Worth,440,0.2%,"2,173",23,GA
+Burke,437,0.2%,"1,952",<20,GA
+Cook,426,0.2%,"2,467",<20,GA
+Bacon,424,0.2%,"3,798",<20,GA
+Jeff Davis,418,0.2%,"2,765",<20,GA
+Oconee,418,0.2%,"1,038",<20,GA
+Charlton,403,0.2%,"3,009",<20,GA
+Putnam,401,0.2%,"1,813",<20,GA
+Franklin,390,0.2%,"1,670",<20,GA
+Ben Hill,388,0.2%,"2,323",<20,GA
+Pierce,387,0.2%,"1,988",<20,GA
+Brooks,380,0.2%,"2,458",<20,GA
+Meriwether,373,0.2%,"1,762",<20,GA
+Madison,371,0.2%,"1,242",<20,GA
+Crisp,370,0.2%,"1,654",<20,GA
+Peach,359,0.2%,"1,303",<20,GA
+Early,355,0.2%,"3,484",31,GA
+Pickens,341,0.2%,"1,046",<20,GA
+Elbert,339,0.2%,"1,766",<20,GA
+Dawson,335,0.2%,"1,283",<20,GA
+White,320,0.2%,"1,039",<20,GA
+Lumpkin,320,0.2%,952,<20,GA
+McDuffie,317,0.2%,"1,487",<20,GA
+Atkinson,306,0.1%,"3,748",<20,GA
+Fannin,303,0.1%,"1,157",<20,GA
+Hancock,298,0.1%,"3,524",34,GA
+Terrell,296,0.1%,"3,470",30,GA
+Jones,293,0.1%,"1,020",<20,GA
+Greene,287,0.1%,"1,566",<20,GA
+Hart,284,0.1%,"1,084",<20,GA
+Berrien,279,0.1%,"1,438",0,GA
+Telfair,273,0.1%,"1,721",<20,GA
+Randolph,266,0.1%,"3,924",26,GA
+Lamar,257,0.1%,"1,347",<20,GA
+Banks,255,0.1%,"1,326",<20,GA
+Stewart,254,0.1%,"3,836",<20,GA
+Morgan,246,0.1%,"1,276",0,GA
+Dooly,245,0.1%,"1,830",<20,GA
+Candler,243,0.1%,"2,249",<20,GA
+Union,242,0.1%,987,<20,GA
+Brantley,238,0.1%,"1,245",<20,GA
+Turner,237,0.1%,"2,968",<20,GA
+Evans,236,0.1%,"2,215",<20,GA
+Jenkins,236,0.1%,"2,720",24,GA
+Chattooga,231,0.1%,932,<20,GA
+Johnson,231,0.1%,"2,396",<20,GA
+Echols,217,0.1%,"5,417",<20,GA
+Lanier,213,0.1%,"2,044",<20,GA
+Haralson,206,0.1%,691,<20,GA
+Rabun,203,0.1%,"1,185",<20,GA
+Wilkinson,201,0.1%,"2,245",<20,GA
+Oglethorpe,201,0.1%,"1,317",<20,GA
+Dodge,201,0.1%,975,<20,GA
+Calhoun,200,0.1%,"3,232",<20,GA
+Pike,200,0.1%,"1,055",<20,GA
+Screven,185,0.1%,"1,325",<20,GA
+Wilkes,183,0.1%,"1,872",<20,GA
+Clinch,181,0.1%,"2,735",<20,GA
+Seminole,180,0.1%,"2,225",<20,GA
+Macon,176,0.1%,"1,359",<20,GA
+Wilcox,176,0.1%,"2,038",<20,GA
+Bleckley,166,0.1%,"1,290",<20,GA
+McIntosh,164,0.1%,"1,141",<20,GA
+Irwin,159,0.1%,"1,689",<20,GA
+Jasper,149,0.1%,"1,048",<20,GA
+Marion,147,0.1%,"1,759",<20,GA
+Montgomery,146,0.1%,"1,592",<20,GA
+Heard,139,0.1%,"1,166",<20,GA
+Miller,135,0.1%,"2,361",0,GA
+Talbot,133,0.1%,"2,147",<20,GA
+Lincoln,132,0.1%,"1,666",<20,GA
+Towns,124,0.1%,"1,030",<20,GA
+Dade,121,0.1%,751,<20,GA
+Long,114,0.1%,583,<20,GA
+Treutlen,107,0.1%,"1,550",<20,GA
+Twiggs,106,0.1%,"1,305",<20,GA
+Crawford,100,0.0 %,806,0,GA
+Pulaski,90,0.0 %,808,<20,GA
+Wheeler,87,0.0 %,"1,108",<20,GA
+Clay,85,0.0 %,"2,999",<20,GA
+Taylor,78,0.0 %,973,<20,GA
+Baker,63,0.0 %,"2,074",<20,GA
+Warren,62,0.0 %,"1,180",<20,GA
+Schley,58,0.0 %,"1,103",<20,GA
+Webster,39,0.0 %,"1,496",<20,GA
+Quitman,29,0.0 %,"1,261",<20,GA
+Glascock,24,0.0 %,808,0,GA
+Taliaferro,<20,Not Calculated,Not Calculated,0,GA
+Johnson,5439,18.1%,903,102,KS
+Wyandotte,4843,16.2%,"2,928",98,KS
+Sedgwick,4723,15.8%,915,44,KS
+Ford,2147,7.2%,"6,386",<20,KS
+Finney,1780,5.9%,"4,881",<20,KS
+Shawnee,1494,5%,845,<20,KS
+Leavenworth,1472,4.9%,"1,800",<20,KS
+Seward,1215,4.1%,"5,670",<20,KS
+Douglas,700,2.3%,573,<20,KS
+Lyon,654,2.2%,"1,970",<20,KS
+Riley,465,1.6%,626,<20,KS
+Crawford,392,1.3%,"1,010",<20,KS
+Saline,345,1.2%,636,<20,KS
+Butler,251,0.8%,375,0,KS
+Reno,251,0.8%,405,<20,KS
+Harvey,190,0.6%,552,<20,KS
+Geary,185,0.6%,584,<20,KS
+Franklin,177,0.6%,693,<20,KS
+Cowley,159,0.5%,455,<20,KS
+Montgomery,152,0.5%,478,<20,KS
+Jackson,148,0.5%,"1,124",<20,KS
+McPherson,143,0.5%,501,<20,KS
+Ellis,138,0.5%,483,<20,KS
+Miami,133,0.4%,388,0,KS
+Labette,118,0.4%,601,0,KS
+Pottawatomie,113,0.4%,463,0,KS
+Barton,108,0.4%,419,<20,KS
+Sumner,98,0.3%,429,<20,KS
+Cherokee,83,0.3%,416,<20,KS
+Grant,82,0.3%,"1,147",<20,KS
+Jefferson,77,0.3%,404,0,KS
+Gray,70,0.2%,"1,169",0,KS
+Coffey,70,0.2%,856,<20,KS
+Atchison,62,0.2%,386,0,KS
+Bourbon,61,0.2%,420,<20,KS
+Neosho,60,0.2%,375,0,KS
+Marion,56,0.2%,471,<20,KS
+Kearny,55,0.2%,"1,433",<20,KS
+Meade,50,0.2%,"1,240",0,KS
+Nemaha,48,0.2%,469,0,KS
+Phillips,47,0.2%,898,<20,KS
+Clark,46,0.2%,"2,307",<20,KS
+Stevens,45,0.2%,820,0,KS
+Doniphan,43,0.1%,566,0,KS
+Wabaunsee,42,0.1%,606,0,KS
+Dickinson,41,0.1%,222,<20,KS
+Hamilton,41,0.1%,"1,615",0,KS
+Haskell,41,0.1%,"1,033",0,KS
+Brown,40,0.1%,418,0,KS
+Linn,39,0.1%,402,0,KS
+Osage,38,0.1%,238,0,KS
+Chase,37,0.1%,"1,397",0,KS
+Thomas,34,0.1%,437,0,KS
+Pratt,33,0.1%,360,0,KS
+Ottawa,32,0.1%,561,0,KS
+Rice,32,0.1%,336,0,KS
+Republic,31,0.1%,669,0,KS
+Cloud,30,0.1%,341,0,KS
+Stanton,30,0.1%,"1,496",0,KS
+Scott,29,0.1%,601,0,KS
+Mitchell,27,0.1%,452,0,KS
+Anderson,27,0.1%,344,0,KS
+Norton,22,0.1%,410,0,KS
+Ellsworth,21,0.1%,344,0,KS
+Kingman,<20,Not Calculated,Not Calculated,0,KS
+Greeley,<20,Not Calculated,Not Calculated,0,KS
+Comanche,<20,Not Calculated,Not Calculated,0,KS
+Hodgeman,<20,Not Calculated,Not Calculated,0,KS
+Wichita,<20,Not Calculated,Not Calculated,0,KS
+Jewell,<20,Not Calculated,Not Calculated,0,KS
+Kiowa,<20,Not Calculated,Not Calculated,0,KS
+Lane,<20,Not Calculated,Not Calculated,0,KS
+Lincoln,<20,Not Calculated,Not Calculated,0,KS
+Logan,<20,Not Calculated,Not Calculated,0,KS
+Allen,<20,Not Calculated,Not Calculated,0,KS
+Elk,<20,Not Calculated,Not Calculated,0,KS
+Gove,<20,Not Calculated,Not Calculated,0,KS
+Greenwood,<20,Not Calculated,Not Calculated,0,KS
+Harper,<20,Not Calculated,Not Calculated,0,KS
+Smith,<20,Not Calculated,Not Calculated,0,KS
+Osborne,<20,Not Calculated,Not Calculated,0,KS
+Cheyenne,<20,Not Calculated,Not Calculated,0,KS
+Clay,<20,Not Calculated,Not Calculated,<20,KS
+Barber,<20,Not Calculated,Not Calculated,0,KS
+Edwards,<20,Not Calculated,Not Calculated,0,KS
+Graham,<20,Not Calculated,Not Calculated,0,KS
+Morris,<20,Not Calculated,Not Calculated,0,KS
+Morton,<20,Not Calculated,Not Calculated,<20,KS
+Rooks,<20,Not Calculated,Not Calculated,0,KS
+Russell,<20,Not Calculated,Not Calculated,0,KS
+Sherman,<20,Not Calculated,Not Calculated,0,KS
+Stafford,<20,Not Calculated,Not Calculated,0,KS
+Washington,<20,Not Calculated,Not Calculated,0,KS
+Wilson,<20,Not Calculated,Not Calculated,0,KS
+Pawnee,<20,Not Calculated,Not Calculated,0,KS
+Sheridan,<20,Not Calculated,Not Calculated,0,KS
+Woodson,<20,Not Calculated,Not Calculated,0,KS
+Chautauqua,<20,Not Calculated,Not Calculated,0,KS
+Trego,<20,Not Calculated,Not Calculated,0,KS
+Decatur,<20,Not Calculated,Not Calculated,0,KS
+Rush,<20,Not Calculated,Not Calculated,0,KS
+Marshall,<20,Not Calculated,Not Calculated,0,KS
+Ness,<20,Not Calculated,Not Calculated,0,KS
+Wallace,0,Not Calculated,Not Calculated,0,KS
+Rawlins,0,Not Calculated,Not Calculated,0,KS
+Hinds,5487,8.5%,"2,367",116,MS
+DeSoto,3523,5.5%,"1,905",28,MS
+Madison,2387,3.7%,"2,246",63,MS
+Harrison,2378,3.7%,"1,143",35,MS
+Rankin,2220,3.4%,"1,430",32,MS
+Jackson,2201,3.4%,"1,533",42,MS
+Jones,1842,2.9%,"2,705",58,MS
+Forrest,1721,2.7%,"2,298",55,MS
+Washington,1582,2.5%,"3,603",37,MS
+Lauderdale,1390,2.2%,"1,875",90,MS
+Lee,1332,2.1%,"1,559",32,MS
+Neshoba,1278,2%,"4,389",91,MS
+Lamar,1184,1.8%,"1,869",<20,MS
+Bolivar,1163,1.8%,"3,797",33,MS
+Oktibbeha,1090,1.7%,"2,198",37,MS
+Lowndes,1039,1.6%,"1,773",22,MS
+Warren,1007,1.6%,"2,219",31,MS
+Scott,987,1.5%,"3,509",20,MS
+Panola,980,1.5%,"2,866",<20,MS
+Sunflower,967,1.5%,"3,851",23,MS
+Copiah,941,1.5%,"3,353",28,MS
+Lafayette,937,1.5%,"1,735",<20,MS
+Leflore,893,1.4%,"3,169",62,MS
+Pike,877,1.4%,"2,232",34,MS
+Holmes,863,1.3%,"5,073",48,MS
+Grenada,830,1.3%,"3,998",21,MS
+Yazoo,807,1.3%,"2,718",<20,MS
+Pontotoc,791,1.2%,"2,459",<20,MS
+Lincoln,790,1.2%,"2,313",41,MS
+Simpson,779,1.2%,"2,922",30,MS
+Leake,779,1.2%,"3,419",25,MS
+Wayne,749,1.2%,"3,711",21,MS
+Monroe,747,1.2%,"2,119",47,MS
+Coahoma,697,1.1%,"3,150",<20,MS
+Tate,692,1.1%,"2,443",27,MS
+Marion,638,1%,"2,596",<20,MS
+Marshall,638,1%,"1,808",<20,MS
+Covington,607,0.9%,"3,257",<20,MS
+Winston,604,0.9%,"3,364",<20,MS
+Adams,602,0.9%,"1,961",25,MS
+Union,562,0.9%,"1,950",<20,MS
+George,548,0.9%,"2,237",<20,MS
+Newton,535,0.8%,"2,545",<20,MS
+Pearl River,520,0.8%,936,37,MS
+Attala,513,0.8%,"2,823",24,MS
+Walthall,489,0.8%,"3,423",<20,MS
+Noxubee,444,0.7%,"4,262",<20,MS
+Chickasaw,441,0.7%,"2,578",<20,MS
+Tallahatchie,407,0.6%,"2,947",<20,MS
+Calhoun,400,0.6%,"2,785",<20,MS
+Claiborne,399,0.6%,"4,439",<20,MS
+Smith,394,0.6%,"2,475",<20,MS
+Prentiss,386,0.6%,"1,536",<20,MS
+Clay,382,0.6%,"1,978",<20,MS
+Alcorn,382,0.6%,"1,034",<20,MS
+Jasper,381,0.6%,"2,326",<20,MS
+Hancock,363,0.6%,762,<20,MS
+Tishomingo,350,0.5%,"1,806",<20,MS
+Itawamba,337,0.5%,"1,441",<20,MS
+Tippah,325,0.5%,"1,476",<20,MS
+Clarke,324,0.5%,"2,085",25,MS
+Tunica,317,0.5%,"3,291",<20,MS
+Yalobusha,307,0.5%,"2,536",<20,MS
+Montgomery,307,0.5%,"3,141",<20,MS
+Lawrence,306,0.5%,"2,431",<20,MS
+Humphreys,282,0.4%,"3,497",<20,MS
+Carroll,254,0.4%,"2,554",<20,MS
+Quitman,240,0.4%,"3,534",<20,MS
+Greene,231,0.4%,"1,700",<20,MS
+Kemper,228,0.4%,"2,340",<20,MS
+Jefferson Davis,226,0.4%,"2,031",<20,MS
+Amite,220,0.3%,"1,789",<20,MS
+Perry,220,0.3%,"1,837",<20,MS
+Webster,216,0.3%,"2,229",<20,MS
+Wilkinson,194,0.3%,"2,248",<20,MS
+Jefferson,194,0.3%,"2,775",<20,MS
+Sharkey,190,0.3%,"4,397",<20,MS
+Stone,163,0.3%,889,<20,MS
+Benton,133,0.2%,"1,610",0,MS
+Choctaw,130,0.2%,"1,583",<20,MS
+Franklin,116,0.2%,"1,504",<20,MS
+Issaquena,25,0.0 %,"1,884",<20,MS
+Anchorage,2016,57.9%,700,<20,AK
+Fairbanks North Star,420,12.1%,434,<20,AK
+Matanuska-Susitna,315,9%,291,<20,AK
+Kenai Peninsula,308,8.8%,525,<20,AK
+Juneau,95,2.7%,297,<20,AK
+Valdez-Cordova,49,1.4%,532,0,AK
+Yukon-Koyukuk,48,1.4%,918,<20,AK
+Northwest Arctic,39,1.1%,512,0,AK
+Ketchikan Gateway,37,1.1%,266,0,AK
+Sitka,25,0.7%,294,0,AK
+Bethel,22,0.6%,120,0,AK
+Aleutians West,<20,Not Calculated,Not Calculated,0,AK
+Hoonah-Angoon,<20,Not Calculated,Not Calculated,0,AK
+Southeast Fairbanks,<20,Not Calculated,Not Calculated,0,AK
+Haines,<20,Not Calculated,Not Calculated,0,AK
+Petersburg,<20,Not Calculated,Not Calculated,<20,AK
+Dillingham,<20,Not Calculated,Not Calculated,0,AK
+Kodiak Island,<20,Not Calculated,Not Calculated,0,AK
+Aleutians East,<20,Not Calculated,Not Calculated,0,AK
+Denali,<20,Not Calculated,Not Calculated,0,AK
+Wrangell,<20,Not Calculated,Not Calculated,0,AK
+North Slope,<20,Not Calculated,Not Calculated,0,AK
+Lake and Peninsula,<20,Not Calculated,Not Calculated,0,AK
+Prince of Wales-Hyder,<20,Not Calculated,Not Calculated,0,AK
+Kusilvak,<20,Not Calculated,Not Calculated,0,AK
+Nome,<20,Not Calculated,Not Calculated,0,AK
+Bristol Bay,0,Not Calculated,Not Calculated,0,AK
+Skagway,0,Not Calculated,Not Calculated,0,AK
+Yakutat,0,Not Calculated,Not Calculated,0,AK
+Cook,109150,57.9%,"2,119","4,912",IL
+Lake,12376,6.6%,"1,777",444,IL
+DuPage,11926,6.3%,"1,292",519,IL
+Kane,9509,5%,"1,786",302,IL
+Will,8932,4.7%,"1,293",344,IL
+St. Clair,3845,2%,"1,481",159,IL
+Winnebago,3746,2%,"1,326",128,IL
+McHenry,3060,1.6%,994,114,IL
+Madison,2410,1.3%,916,74,IL
+Kankakee,1713,0.9%,"1,559",68,IL
+Rock Island,1656,0.9%,"1,167",34,IL
+Champaign,1615,0.9%,770,<20,IL
+Peoria,1488,0.8%,830,35,IL
+Kendall,1319,0.7%,"1,023",23,IL
+Sangamon,1151,0.6%,591,33,IL
+DeKalb,898,0.5%,856,30,IL
+Boone,754,0.4%,"1,408",23,IL
+Jackson,685,0.4%,"1,207",<20,IL
+LaSalle,666,0.4%,613,21,IL
+McLean,611,0.3%,356,<20,IL
+Macon,550,0.3%,529,23,IL
+Adams,486,0.3%,743,<20,IL
+Tazewell,448,0.2%,340,<20,IL
+Randolph,441,0.2%,"1,388",<20,IL
+Coles,433,0.2%,855,20,IL
+Ogle,400,0.2%,790,<20,IL
+Clinton,378,0.2%,"1,006",<20,IL
+Williamson,364,0.2%,547,<20,IL
+Whiteside,335,0.2%,607,<20,IL
+Stephenson,325,0.2%,730,<20,IL
+Union,309,0.2%,"1,856",23,IL
+Grundy,299,0.2%,586,<20,IL
+Monroe,299,0.2%,863,<20,IL
+Knox,285,0.2%,573,<20,IL
+Iroquois,252,0.1%,929,<20,IL
+Henry,224,0.1%,458,<20,IL
+Vermilion,222,0.1%,293,<20,IL
+Morgan,222,0.1%,660,<20,IL
+Cass,219,0.1%,"1,803",<20,IL
+Jefferson,218,0.1%,578,<20,IL
+Warren,187,0.1%,"1,110",0,IL
+Bureau,170,0.1%,521,<20,IL
+Lee,162,0.1%,475,<20,IL
+Montgomery,161,0.1%,567,<20,IL
+Macoupin,154,0.1%,343,<20,IL
+Marion,153,0.1%,411,0,IL
+Franklin,147,0.1%,382,0,IL
+Perry,142,0.1%,679,<20,IL
+McDonough,137,0.1%,462,<20,IL
+Effingham,129,0.1%,379,<20,IL
+Christian,128,0.1%,396,<20,IL
+Saline,126,0.1%,536,<20,IL
+Woodford,125,0.1%,325,<20,IL
+Jo Daviess,121,0.1%,570,<20,IL
+Douglas,106,0.1%,545,<20,IL
+Livingston,103,0.1%,289,<20,IL
+Pulaski,91,0.0 %,"1,706",0,IL
+Logan,90,0.0 %,314,0,IL
+Jersey,85,0.0 %,390,<20,IL
+Clark,76,0.0 %,492,<20,IL
+Mercer,73,0.0 %,473,<20,IL
+Moultrie,69,0.0 %,476,0,IL
+Shelby,68,0.0 %,314,<20,IL
+Johnson,66,0.0 %,532,0,IL
+White,64,0.0 %,473,0,IL
+Washington,60,0.0 %,432,0,IL
+Fayette,60,0.0 %,281,<20,IL
+Bond,59,0.0 %,359,<20,IL
+Jasper,55,0.0 %,572,<20,IL
+Wayne,55,0.0 %,339,<20,IL
+Piatt,54,0.0 %,330,0,IL
+Menard,53,0.0 %,435,0,IL
+Ford,51,0.0 %,393,<20,IL
+Cumberland,51,0.0 %,474,<20,IL
+Carroll,48,0.0 %,336,<20,IL
+Gallatin,48,0.0 %,994,<20,IL
+Hancock,46,0.0 %,260,<20,IL
+Mason,45,0.0 %,337,0,IL
+Lawrence,44,0.0 %,281,0,IL
+Alexander,36,0.0 %,625,0,IL
+Massac,36,0.0 %,261,0,IL
+Wabash,34,0.0 %,295,0,IL
+Greene,33,0.0 %,254,0,IL
+Fulton,32,0.0 %,93,0,IL
+De Witt,32,0.0 %,205,0,IL
+Crawford,29,0.0 %,155,0,IL
+Edgar,28,0.0 %,163,0,IL
+Hamilton,26,0.0 %,320,0,IL
+Marshall,22,0.0 %,192,0,IL
+Edwards,<20,Not Calculated,Not Calculated,0,IL
+Stark,<20,Not Calculated,Not Calculated,0,IL
+Pike,<20,Not Calculated,Not Calculated,0,IL
+Richland,<20,Not Calculated,Not Calculated,0,IL
+Brown,<20,Not Calculated,Not Calculated,0,IL
+Calhoun,<20,Not Calculated,Not Calculated,0,IL
+Hardin,<20,Not Calculated,Not Calculated,0,IL
+Henderson,<20,Not Calculated,Not Calculated,0,IL
+Pope,<20,Not Calculated,Not Calculated,0,IL
+Clay,<20,Not Calculated,Not Calculated,0,IL
+Schuyler,<20,Not Calculated,Not Calculated,0,IL
+Scott,<20,Not Calculated,Not Calculated,0,IL
+Putnam,<20,Not Calculated,Not Calculated,0,IL
+Jefferson,15002,11.8%,"3,469",521,LA
+East Baton Rouge,11736,9.2%,"2,667",338,LA
+Orleans,10573,8.3%,"2,710",561,LA
+Lafayette,7424,5.8%,"3,038",91,LA
+Calcasieu,6695,5.3%,"3,291",130,LA
+Caddo,6566,5.2%,"2,734",289,LA
+St. Tammany,4993,3.9%,"1,917",208,LA
+Ouachita,4709,3.7%,"3,072",109,LA
+Tangipahoa,3332,2.6%,"2,473",69,LA
+Rapides,3194,2.5%,"2,464",112,LA
+Terrebonne,2941,2.3%,"2,662",84,LA
+Livingston,2800,2.2%,"1,989",50,LA
+Ascension,2768,2.2%,"2,186",71,LA
+Lafourche,2719,2.1%,"2,785",96,LA
+St. Landry,2583,2%,"3,145",83,LA
+Acadia,2555,2%,"4,118",79,LA
+Iberia,2436,1.9%,"3,488",70,LA
+Bossier,2295,1.8%,"1,807",75,LA
+St. Martin,1609,1.3%,"3,011",43,LA
+St. Mary,1527,1.2%,"3,094",51,LA
+Vermilion,1513,1.2%,"2,542",22,LA
+St. Charles,1424,1.1%,"2,682",51,LA
+St. John the Baptist,1399,1.1%,"3,266",91,LA
+Washington,1235,1%,"2,674",58,LA
+Allen,1232,1%,"4,807",28,LA
+Iberville,1191,0.9%,"3,663",47,LA
+St. Bernard,1081,0.8%,"2,288",24,LA
+Avoyelles,1002,0.8%,"2,496",29,LA
+Jefferson Davis,996,0.8%,"3,175",26,LA
+Franklin,875,0.7%,"4,372",<20,LA
+Webster,861,0.7%,"2,246",<20,LA
+Evangeline,835,0.7%,"2,500",<20,LA
+Beauregard,814,0.6%,"2,171",<20,LA
+Pointe Coupee,769,0.6%,"3,539",32,LA
+Lincoln,754,0.6%,"1,613",28,LA
+Natchitoches,747,0.6%,"1,958",<20,LA
+Vernon,739,0.6%,"1,558",25,LA
+De Soto,705,0.6%,"2,567",26,LA
+West Baton Rouge,689,0.5%,"2,603",36,LA
+St. James,681,0.5%,"3,228",32,LA
+Union,669,0.5%,"3,026",33,LA
+Sabine,611,0.5%,"2,558",<20,LA
+Madison,601,0.5%,"5,488",<20,LA
+Richland,577,0.5%,"2,868",<20,LA
+Assumption,569,0.4%,"2,599",20,LA
+East Feliciana,550,0.4%,"2,874",35,LA
+East Carroll,514,0.4%,"7,492",<20,LA
+Morehouse,479,0.4%,"1,926",<20,LA
+Plaquemines,432,0.3%,"1,862",<20,LA
+Winn,410,0.3%,"2,949",<20,LA
+Jackson,368,0.3%,"2,337",<20,LA
+Bienville,362,0.3%,"2,734",30,LA
+West Feliciana,333,0.3%,"2,139",<20,LA
+Concordia,300,0.2%,"1,558",<20,LA
+Grant,292,0.2%,"1,304",<20,LA
+West Carroll,277,0.2%,"2,558",<20,LA
+Catahoula,276,0.2%,"2,907",<20,LA
+LaSalle,268,0.2%,"1,800",<20,LA
+St. Helena,253,0.2%,"2,497",<20,LA
+Claiborne,241,0.2%,"1,538",<20,LA
+Red River,211,0.2%,"2,499",<20,LA
+Caldwell,207,0.2%,"2,087",<20,LA
+Cameron,167,0.1%,"2,395",0,LA
+Tensas,68,0.1%,"1,569",0,LA
+Prince George's,23225,25%,"2,554",748,MD
+Montgomery,18032,19.4%,"1,716",797,MD
+Baltimore,12777,13.7%,"1,544",557,MD
+Baltimore City,12075,13%,"2,035",422,MD
+Anne Arundel,7200,7.7%,"1,243",220,MD
+Howard,3729,4%,"1,145",106,MD
+Frederick,3032,3.3%,"1,168",121,MD
+Charles,1961,2.1%,"1,201",91,MD
+Harford,1906,2%,746,69,MD
+Carroll,1516,1.6%,900,117,MD
+Wicomico,1322,1.4%,"1,276",45,MD
+Washington,996,1.1%,659,31,MD
+St. Mary's,951,1%,838,52,MD
+Cecil,681,0.7%,662,30,MD
+Calvert,667,0.7%,721,28,MD
+Worcester,664,0.7%,"1,270",20,MD
+Caroline,444,0.5%,"1,329",<20,MD
+Queen Anne's,406,0.4%,806,25,MD
+Talbot,371,0.4%,998,<20,MD
+Dorchester,360,0.4%,"1,128",<20,MD
+Allegany,279,0.3%,396,<20,MD
+Kent,236,0.3%,"1,215",23,MD
+Somerset,130,0.1%,507,<20,MD
+Garrett,45,0.0 %,155,0,MD
+Maricopa,124022,67.5%,"2,765","2,259",AZ
+Pima,17293,9.4%,"1,651",480,AZ
+Yuma,11367,6.2%,"5,317",276,AZ
+Pinal,8323,4.5%,"1,798",147,AZ
+Navajo,5330,2.9%,"4,805",197,AZ
+Apache,3151,1.7%,"4,383",138,AZ
+Mohave,3078,1.7%,"1,451",161,AZ
+Coconino,3043,1.7%,"2,121",115,AZ
+Santa Cruz,2643,1.4%,"5,684",51,AZ
+Yavapai,1936,1.1%,823,65,AZ
+Cochise,1565,0.9%,"1,243",52,AZ
+Gila,884,0.5%,"1,636",36,AZ
+Graham,518,0.3%,"1,334",<20,AZ
+La Paz,477,0.3%,"2,260",<20,AZ
+Greenlee,58,0.0 %,611,<20,AZ
+Miami-Dade,127677,25%,"4,699","1,784",FL
+Broward,60058,11.8%,"3,076",782,FL
+Palm Beach,35737,7%,"2,388",892,FL
+Hillsborough,31563,6.2%,"2,144",378,FL
+Orange,30776,6%,"2,209",275,FL
+Duval,22568,4.4%,"2,356",165,FL
+Pinellas,17358,3.4%,"1,780",469,FL
+Lee,16090,3.2%,"2,088",323,FL
+Polk,13654,2.7%,"1,884",304,FL
+Collier,10118,2%,"2,629",130,FL
+Osceola,9286,1.8%,"2,471",96,FL
+Manatee,9050,1.8%,"2,244",189,FL
+Escambia,8515,1.7%,"2,675",111,FL
+Volusia,7488,1.5%,"1,353",124,FL
+Seminole,6932,1.4%,"1,469",109,FL
+Pasco,6802,1.3%,"1,228",104,FL
+Sarasota,6025,1.2%,"1,389",130,FL
+Brevard,5794,1.1%,963,134,FL
+Marion,5707,1.1%,"1,561",83,FL
+St. Lucie,5514,1.1%,"1,680",148,FL
+Lake,4840,0.9%,"1,318",60,FL
+Leon,4643,0.9%,"1,582",23,FL
+Bay,4077,0.8%,"2,334",45,FL
+Alachua,3952,0.8%,"1,469",25,FL
+Martin,3712,0.7%,"2,306",87,FL
+Santa Rosa,3700,0.7%,"2,007",34,FL
+St. Johns,3512,0.7%,"1,327",33,FL
+Okaloosa,3292,0.6%,"1,562",35,FL
+Clay,3110,0.6%,"1,418",50,FL
+Columbia,2731,0.5%,"3,810",<20,FL
+Indian River,2424,0.5%,"1,516",51,FL
+Charlotte,2144,0.4%,"1,135",89,FL
+Hernando,1906,0.4%,983,42,FL
+Jackson,1797,0.4%,"3,872",36,FL
+Hendry,1709,0.3%,"4,067",37,FL
+Gadsden,1663,0.3%,"3,642",21,FL
+Putnam,1446,0.3%,"1,940",23,FL
+Monroe,1438,0.3%,"1,937",<20,FL
+Citrus,1429,0.3%,955,36,FL
+Highlands,1328,0.3%,"1,250",34,FL
+Walton,1323,0.3%,"1,786",<20,FL
+DeSoto,1321,0.3%,"3,476",<20,FL
+Suwannee,1302,0.3%,"2,931",38,FL
+Sumter,1208,0.2%,912,40,FL
+Nassau,1184,0.2%,"1,336",<20,FL
+Okeechobee,989,0.2%,"2,345",<20,FL
+Flagler,989,0.2%,859,<20,FL
+Hardee,890,0.2%,"3,304",<20,FL
+Taylor,857,0.2%,"3,973",<20,FL
+Washington,747,0.1%,"2,933",<20,FL
+Madison,675,0.1%,"3,650",<20,FL
+Wakulla,651,0.1%,"1,930",<20,FL
+Levy,645,0.1%,"1,554",<20,FL
+Hamilton,598,0.1%,"4,145",<20,FL
+Baker,528,0.1%,"1,808",<20,FL
+Gulf,490,0.1%,"3,593",<20,FL
+Holmes,476,0.1%,"2,426",<20,FL
+Jefferson,438,0.1%,"3,075",<20,FL
+Glades,398,0.1%,"2,882",<20,FL
+Liberty,384,0.1%,"4,597",<20,FL
+Bradford,378,0.1%,"1,340",<20,FL
+Dixie,375,0.1%,"2,229",<20,FL
+Calhoun,356,0.1%,"2,524",<20,FL
+Gilchrist,339,0.1%,"1,824",<20,FL
+Franklin,276,0.1%,"2,276",<20,FL
+Union,244,0.0 %,"1,601",<20,FL
+Lafayette,117,0.0 %,"1,389",<20,FL
+Marion,15322,21.6%,"1,588",723,IN
+Lake,7343,10.3%,"1,512",274,IN
+Elkhart,4713,6.6%,"2,284",80,IN
+Allen,3725,5.2%,982,160,IN
+St. Joseph,3301,4.6%,"1,214",79,IN
+Hamilton,2610,3.7%,772,104,IN
+Vanderburgh,1842,2.6%,"1,015",<20,IN
+Hendricks,1814,2.6%,"1,065",106,IN
+Cass,1766,2.5%,"4,686",<20,IN
+Johnson,1694,2.4%,"1,071",118,IN
+Porter,1238,1.7%,727,39,IN
+Clark,1148,1.6%,970,46,IN
+Tippecanoe,1146,1.6%,585,<20,IN
+Madison,895,1.3%,691,65,IN
+LaPorte,869,1.2%,791,30,IN
+Howard,855,1.2%,"1,036",65,IN
+Kosciusko,827,1.2%,"1,041",<20,IN
+Marshall,758,1.1%,"1,639",22,IN
+Bartholomew,754,1.1%,900,47,IN
+Floyd,740,1%,942,45,IN
+Monroe,708,1%,477,30,IN
+Delaware,680,1%,596,52,IN
+Dubois,658,0.9%,"1,540",<20,IN
+Boone,653,0.9%,963,46,IN
+Noble,645,0.9%,"1,351",29,IN
+Hancock,638,0.9%,816,38,IN
+Jackson,562,0.8%,"1,271",<20,IN
+LaGrange,554,0.8%,"1,398",<20,IN
+Warrick,553,0.8%,878,30,IN
+Vigo,543,0.8%,507,<20,IN
+Shelby,535,0.8%,"1,196",27,IN
+Grant,520,0.7%,791,29,IN
+Dearborn,479,0.7%,968,28,IN
+Morgan,451,0.6%,640,34,IN
+Clinton,404,0.6%,"1,247",<20,IN
+Henry,369,0.5%,769,<20,IN
+White,351,0.5%,"1,456",<20,IN
+Wayne,346,0.5%,525,<20,IN
+Montgomery,346,0.5%,902,21,IN
+Lawrence,337,0.5%,743,27,IN
+Decatur,324,0.5%,"1,220",32,IN
+Harrison,309,0.4%,763,23,IN
+Putnam,277,0.4%,737,<20,IN
+Miami,264,0.4%,743,<20,IN
+Daviess,259,0.4%,777,20,IN
+Scott,257,0.4%,"1,077",<20,IN
+Greene,241,0.3%,755,34,IN
+Franklin,234,0.3%,"1,028",<20,IN
+DeKalb,223,0.3%,513,<20,IN
+Jasper,219,0.3%,653,<20,IN
+Jennings,215,0.3%,775,<20,IN
+Gibson,208,0.3%,618,<20,IN
+Steuben,204,0.3%,590,<20,IN
+Ripley,194,0.3%,685,<20,IN
+Perry,179,0.3%,934,<20,IN
+Fayette,177,0.2%,766,<20,IN
+Starke,174,0.2%,757,<20,IN
+Orange,166,0.2%,845,24,IN
+Posey,165,0.2%,649,0,IN
+Wabash,161,0.2%,519,<20,IN
+Fulton,159,0.2%,796,<20,IN
+Carroll,157,0.2%,775,<20,IN
+Wells,154,0.2%,544,<20,IN
+Jefferson,153,0.2%,474,<20,IN
+Whitley,147,0.2%,433,<20,IN
+Knox,142,0.2%,388,0,IN
+Tipton,129,0.2%,852,<20,IN
+Washington,121,0.2%,432,<20,IN
+Huntington,121,0.2%,331,<20,IN
+Spencer,119,0.2%,587,<20,IN
+Newton,114,0.2%,815,<20,IN
+Randolph,114,0.2%,462,<20,IN
+Clay,104,0.1%,397,<20,IN
+Sullivan,91,0.1%,440,<20,IN
+Adams,89,0.1%,249,<20,IN
+Jay,84,0.1%,411,0,IN
+Owen,83,0.1%,399,<20,IN
+Pulaski,75,0.1%,607,<20,IN
+Rush,71,0.1%,428,<20,IN
+Brown,71,0.1%,470,<20,IN
+Fountain,64,0.1%,392,<20,IN
+Benton,60,0.1%,686,0,IN
+Blackford,59,0.1%,502,<20,IN
+Ohio,57,0.1%,970,<20,IN
+Pike,52,0.1%,420,0,IN
+Parke,50,0.1%,295,<20,IN
+Vermillion,48,0.1%,310,0,IN
+Switzerland,44,0.1%,409,0,IN
+Crawford,44,0.1%,416,0,IN
+Martin,42,0.1%,410,0,IN
+Union,35,0.0 %,496,0,IN
+Warren,20,0.0 %,242,<20,IN
+Wayne,27836,29.4%,"1,591","2,821",MI
+Oakland,15176,16%,"1,207","1,129",MI
+Macomb,10042,10.6%,"1,149",942,MI
+Kent,7380,7.8%,"1,123",157,MI
+Genesee,3604,3.8%,888,295,MI
+Washtenaw,2483,2.6%,675,112,MI
+Saginaw,1934,2%,"1,015",130,MI
+Ottawa,1778,1.9%,609,55,MI
+Kalamazoo,1601,1.7%,604,83,MI
+Ingham,1520,1.6%,520,30,MI
+Berrien,1334,1.4%,870,66,MI
+Muskegon,1156,1.2%,666,58,MI
+Monroe,945,1%,628,23,MI
+Livingston,811,0.9%,422,28,MI
+St. Clair,794,0.8%,499,53,MI
+Calhoun,776,0.8%,578,41,MI
+Jackson,707,0.7%,446,34,MI
+Bay,595,0.6%,577,31,MI
+St. Joseph,571,0.6%,937,<20,MI
+Allegan,507,0.5%,429,<20,MI
+Oceana,470,0.5%,"1,776",<20,MI
+Lapeer,456,0.5%,521,33,MI
+Eaton,455,0.5%,413,<20,MI
+Van Buren,428,0.5%,566,<20,MI
+Clinton,421,0.4%,529,<20,MI
+Lenawee,413,0.4%,419,<20,MI
+Branch,352,0.4%,809,<20,MI
+Shiawassee,337,0.4%,495,28,MI
+Tuscola,330,0.3%,632,29,MI
+Midland,325,0.3%,391,<20,MI
+Cass,313,0.3%,604,<20,MI
+Ionia,274,0.3%,424,<20,MI
+Hillsdale,258,0.3%,566,25,MI
+Newaygo,250,0.3%,510,0,MI
+Isabella,205,0.2%,293,<20,MI
+Grand Traverse,202,0.2%,217,<20,MI
+Montcalm,184,0.2%,288,<20,MI
+Barry,173,0.2%,281,<20,MI
+Huron,154,0.2%,497,<20,MI
+Gratiot,151,0.2%,371,<20,MI
+Marquette,149,0.2%,223,<20,MI
+Otsego,131,0.1%,531,<20,MI
+Iosco,130,0.1%,517,<20,MI
+Alpena,127,0.1%,447,<20,MI
+Menominee,117,0.1%,514,0,MI
+Gogebic,109,0.1%,780,<20,MI
+Crawford,103,0.1%,734,<20,MI
+Sanilac,102,0.1%,248,<20,MI
+Mason,99,0.1%,340,0,MI
+Delta,87,0.1%,243,<20,MI
+Osceola,70,0.1%,298,0,MI
+Wexford,70,0.1%,208,<20,MI
+Leelanau,69,0.1%,317,0,MI
+Clare,66,0.1%,213,<20,MI
+Mecosta,65,0.1%,150,<20,MI
+Emmet,60,0.1%,180,<20,MI
+Gladwin,57,0.1%,224,<20,MI
+Ogemaw,53,0.1%,252,<20,MI
+Roscommon,52,0.1%,216,0,MI
+Dickinson,51,0.1%,202,<20,MI
+Houghton,49,0.1%,137,0,MI
+Kalkaska,49,0.1%,272,<20,MI
+Charlevoix,45,0.0 %,172,<20,MI
+Cheboygan,43,0.0 %,170,<20,MI
+Arenac,41,0.0 %,275,<20,MI
+Missaukee,41,0.0 %,271,<20,MI
+Antrim,40,0.0 %,171,0,MI
+Chippewa,39,0.0 %,104,0,MI
+Manistee,34,0.0 %,138,0,MI
+Alcona,28,0.0 %,269,<20,MI
+Benzie,28,0.0 %,158,<20,MI
+Oscoda,24,0.0 %,291,<20,MI
+Mackinac,24,0.0 %,222,0,MI
+Schoolcraft,<20,Not Calculated,Not Calculated,0,MI
+Keweenaw,<20,Not Calculated,Not Calculated,0,MI
+Presque Isle,<20,Not Calculated,Not Calculated,<20,MI
+Iron,<20,Not Calculated,Not Calculated,<20,MI
+Luce,<20,Not Calculated,Not Calculated,0,MI
+Montmorency,<20,Not Calculated,Not Calculated,0,MI
+Ontonagon,<20,Not Calculated,Not Calculated,0,MI
+Lake,<20,Not Calculated,Not Calculated,0,MI
+Baraga,<20,Not Calculated,Not Calculated,0,MI
+Alger,<20,Not Calculated,Not Calculated,0,MI
+New Castle,7092,46.2%,"1,269",289,DE
+Sussex,5786,37.7%,"2,470",191,DE
+Kent,2247,14.6%,"1,243",107,DE
+Polk,9944,21.1%,"2,029",206,IA
+Woodbury,3684,7.8%,"3,573",51,IA
+Black Hawk,3067,6.5%,"2,337",63,IA
+Linn,2229,4.7%,983,87,IA
+Johnson,2012,4.3%,"1,331",<20,IA
+Dallas,1821,3.9%,"1,949",35,IA
+Buena Vista,1791,3.8%,"9,128",<20,IA
+Scott,1642,3.5%,949,<20,IA
+Dubuque,1607,3.4%,"1,651",31,IA
+Marshall,1415,3%,"3,594",25,IA
+Pottawattamie,1265,2.7%,"1,357",25,IA
+Story,1131,2.4%,"1,165",<20,IA
+Wapello,868,1.8%,"2,482",33,IA
+Muscatine,838,1.8%,"1,964",48,IA
+Webster,768,1.6%,"2,139",<20,IA
+Crawford,723,1.5%,"4,298",<20,IA
+Sioux,609,1.3%,"1,747",<20,IA
+Cerro Gordo,589,1.2%,"1,388",<20,IA
+Warren,546,1.2%,"1,061",<20,IA
+Tama,543,1.2%,"3,222",29,IA
+Jasper,461,1%,"1,240",26,IA
+Wright,451,1%,"3,590",<20,IA
+Plymouth,449,1%,"1,783",<20,IA
+Louisa,380,0.8%,"3,444",<20,IA
+Dickinson,378,0.8%,"2,190",<20,IA
+Clinton,350,0.7%,754,<20,IA
+Washington,293,0.6%,"1,334",<20,IA
+Hamilton,243,0.5%,"1,645",<20,IA
+Boone,237,0.5%,903,<20,IA
+Franklin,228,0.5%,"2,264",<20,IA
+Bremer,199,0.4%,794,<20,IA
+Clarke,191,0.4%,"2,033",<20,IA
+Emmet,185,0.4%,"2,009",<20,IA
+Carroll,184,0.4%,912,<20,IA
+Shelby,177,0.4%,"1,545",<20,IA
+Clay,175,0.4%,"1,093",<20,IA
+Hardin,171,0.4%,"1,015",0,IA
+Marion,161,0.3%,484,0,IA
+Allamakee,153,0.3%,"1,118",<20,IA
+Poweshiek,151,0.3%,816,<20,IA
+Des Moines,151,0.3%,388,<20,IA
+Jackson,148,0.3%,761,<20,IA
+Benton,146,0.3%,569,<20,IA
+Mahaska,138,0.3%,625,<20,IA
+Floyd,133,0.3%,850,<20,IA
+O'Brien,132,0.3%,960,<20,IA
+Guthrie,129,0.3%,"1,207",<20,IA
+Jones,126,0.3%,609,<20,IA
+Cedar,124,0.3%,666,<20,IA
+Buchanan,122,0.3%,576,<20,IA
+Butler,119,0.3%,824,<20,IA
+Hancock,118,0.3%,"1,110",<20,IA
+Henry,117,0.2%,586,<20,IA
+Pocahontas,115,0.2%,"1,737",<20,IA
+Madison,110,0.2%,673,<20,IA
+Lyon,108,0.2%,919,<20,IA
+Lee,105,0.2%,312,<20,IA
+Cherokee,101,0.2%,899,<20,IA
+Clayton,101,0.2%,576,<20,IA
+Harrison,100,0.2%,712,0,IA
+Humboldt,99,0.2%,"1,036",<20,IA
+Delaware,96,0.2%,564,<20,IA
+Taylor,95,0.2%,"1,552",0,IA
+Iowa,94,0.2%,581,<20,IA
+Monona,91,0.2%,"1,056",0,IA
+Winneshiek,90,0.2%,450,<20,IA
+Mills,86,0.2%,569,0,IA
+Calhoun,82,0.2%,848,<20,IA
+Kossuth,82,0.2%,554,0,IA
+Sac,82,0.2%,844,0,IA
+Fayette,81,0.2%,412,0,IA
+Page,81,0.2%,536,0,IA
+Palo Alto,80,0.2%,900,0,IA
+Mitchell,78,0.2%,737,0,IA
+Jefferson,78,0.2%,426,0,IA
+Osceola,78,0.2%,"1,309",0,IA
+Grundy,76,0.2%,621,<20,IA
+Winnebago,76,0.2%,734,0,IA
+Union,74,0.2%,605,<20,IA
+Monroe,69,0.1%,895,<20,IA
+Worth,65,0.1%,881,0,IA
+Lucas,55,0.1%,640,<20,IA
+Chickasaw,52,0.1%,436,0,IA
+Montgomery,51,0.1%,514,<20,IA
+Davis,51,0.1%,567,<20,IA
+Cass,49,0.1%,382,<20,IA
+Howard,49,0.1%,535,0,IA
+Appanoose,46,0.1%,370,<20,IA
+Greene,38,0.1%,428,0,IA
+Fremont,36,0.1%,517,0,IA
+Van Buren,34,0.1%,483,<20,IA
+Keokuk,31,0.1%,303,<20,IA
+Ida,29,0.1%,423,0,IA
+Audubon,28,0.1%,509,<20,IA
+Adair,23,0.0 %,322,0,IA
+Decatur,23,0.0 %,292,0,IA
+Ringgold,21,0.0 %,429,<20,IA
+Wayne,<20,Not Calculated,Not Calculated,<20,IA
+Adams,<20,Not Calculated,Not Calculated,0,IA
+Cumberland,2070,51.8%,702,69,ME
+York,666,16.7%,321,<20,ME
+Androscoggin,548,13.7%,506,<20,ME
+Kennebec,169,4.2%,138,<20,ME
+Penobscot,152,3.8%,100,<20,ME
+Waldo,62,1.6%,156,<20,ME
+Oxford,54,1.4%,93,0,ME
+Sagadahoc,54,1.4%,151,0,ME
+Franklin,45,1.1%,149,<20,ME
+Hancock,35,0.9%,64,<20,ME
+Lincoln,34,0.9%,98,<20,ME
+Somerset,33,0.8%,65,<20,ME
+Aroostook,33,0.8%,49,<20,ME
+Knox,27,0.7%,68,<20,ME
+Piscataquis,<20,Not Calculated,Not Calculated,0,ME
+Washington,<20,Not Calculated,Not Calculated,0,ME
+Washington,6188,13.2%,"2,587",51,AR
+Pulaski,5222,11.1%,"1,332",81,AR
+Benton,4663,9.9%,"1,670",40,AR
+Sebastian,2038,4.3%,"1,594",<20,AR
+Hot Spring,1484,3.2%,"4,394",<20,AR
+Jefferson,1423,3%,"2,129",40,AR
+Crittenden,1315,2.8%,"2,742",20,AR
+Pope,1276,2.7%,"1,992",<20,AR
+Craighead,1264,2.7%,"1,146",<20,AR
+Faulkner,1252,2.7%,994,<20,AR
+Lincoln,1197,2.5%,"9,191",<20,AR
+St. Francis,1165,2.5%,"4,661",<20,AR
+Yell,1055,2.2%,"4,944",<20,AR
+Saline,975,2.1%,796,<20,AR
+Sevier,969,2.1%,"5,698",<20,AR
+Garland,939,2%,945,<20,AR
+Mississippi,914,1.9%,"2,248",<20,AR
+Lee,890,1.9%,"10,049",<20,AR
+Chicot,707,1.5%,"6,988",<20,AR
+Johnson,652,1.4%,"2,453",<20,AR
+Crawford,582,1.2%,920,<20,AR
+Miller,495,1.1%,"1,144",<20,AR
+Lonoke,482,1%,657,<20,AR
+Union,464,1%,"1,200",<20,AR
+Greene,445,0.9%,982,<20,AR
+Independence,443,0.9%,"1,171",<20,AR
+Carroll,350,0.7%,"1,233",<20,AR
+Howard,322,0.7%,"2,439",<20,AR
+Ashley,298,0.6%,"1,516",<20,AR
+Phillips,298,0.6%,"1,676",<20,AR
+White,289,0.6%,367,<20,AR
+Madison,269,0.6%,"1,623",<20,AR
+Hempstead,227,0.5%,"1,054",<20,AR
+Logan,225,0.5%,"1,048",<20,AR
+Poinsett,217,0.5%,922,<20,AR
+Columbia,209,0.4%,891,<20,AR
+Arkansas,208,0.4%,"1,190",<20,AR
+Lawrence,205,0.4%,"1,250",<20,AR
+Randolph,199,0.4%,"1,108",<20,AR
+Boone,193,0.4%,516,<20,AR
+Cleburne,188,0.4%,754,<20,AR
+Cross,183,0.4%,"1,115",<20,AR
+Drew,182,0.4%,999,<20,AR
+Desha,179,0.4%,"1,576",<20,AR
+Clark,175,0.4%,784,<20,AR
+Bradley,173,0.4%,"1,607",<20,AR
+Little River,164,0.3%,"1,338",<20,AR
+Conway,143,0.3%,686,<20,AR
+Polk,137,0.3%,686,<20,AR
+Nevada,136,0.3%,"1,648",<20,AR
+Grant,131,0.3%,717,0,AR
+Franklin,119,0.3%,672,<20,AR
+Clay,118,0.3%,811,<20,AR
+Sharp,107,0.2%,613,<20,AR
+Newton,102,0.2%,"1,316",<20,AR
+Pike,91,0.2%,849,<20,AR
+Cleveland,87,0.2%,"1,094",<20,AR
+Ouachita,84,0.2%,359,<20,AR
+Prairie,80,0.2%,992,0,AR
+Baxter,68,0.1%,162,0,AR
+Jackson,63,0.1%,377,<20,AR
+Stone,61,0.1%,488,<20,AR
+Dallas,59,0.1%,842,0,AR
+Monroe,55,0.1%,821,0,AR
+Lafayette,52,0.1%,785,<20,AR
+Van Buren,52,0.1%,314,<20,AR
+Scott,51,0.1%,496,0,AR
+Perry,50,0.1%,478,0,AR
+Izard,47,0.1%,345,<20,AR
+Montgomery,34,0.1%,378,<20,AR
+Fulton,30,0.1%,240,0,AR
+Searcy,28,0.1%,355,0,AR
+Marion,25,0.1%,150,0,AR
+Woodruff,20,0.0 %,316,0,AR
+Calhoun,<20,Not Calculated,Not Calculated,0,AR
+Honolulu,2541,87.3%,261,22,HI
+Maui,178,6.1%,106,<20,HI
+Hawaii,122,4.2%,61,0,HI
+Kauai,47,1.6%,65,0,HI
+Kalawao,0,Not Calculated,Not Calculated,0,HI
+Ada,8569,36.6%,"1,779",72,ID
+Canyon,5453,23.3%,"2,372",46,ID
+Kootenai,1729,7.4%,"1,043",<20,ID
+Twin Falls,1310,5.6%,"1,508",32,ID
+Bonneville,914,3.9%,768,<20,ID
+Blaine,575,2.5%,"2,498",<20,ID
+Cassia,503,2.2%,"2,093",<20,ID
+Minidoka,464,2%,"2,205",<20,ID
+Jerome,458,2%,"1,876",<20,ID
+Bannock,375,1.6%,427,<20,ID
+Payette,367,1.6%,"1,532",<20,ID
+Owyhee,255,1.1%,"2,157",<20,ID
+Bingham,229,1%,489,<20,ID
+Elmore,205,0.9%,745,<20,ID
+Washington,200,0.9%,"1,962",<20,ID
+Jefferson,174,0.7%,583,<20,ID
+Bonner,174,0.7%,380,0,ID
+Gem,171,0.7%,944,<20,ID
+Gooding,152,0.6%,"1,001",<20,ID
+Madison,150,0.6%,376,0,ID
+Nez Perce,140,0.6%,346,<20,ID
+Latah,95,0.4%,237,0,ID
+Shoshone,82,0.4%,637,<20,ID
+Fremont,72,0.3%,550,0,ID
+Teton,70,0.3%,577,0,ID
+Benewah,60,0.3%,645,0,ID
+Valley,56,0.2%,492,<20,ID
+Lincoln,56,0.2%,"1,044",0,ID
+Power,55,0.2%,716,0,ID
+Franklin,50,0.2%,360,0,ID
+Boise,43,0.2%,549,<20,ID
+Boundary,36,0.2%,294,0,ID
+Caribou,31,0.1%,433,0,ID
+Idaho,30,0.1%,180,0,ID
+Camas,<20,Not Calculated,Not Calculated,0,ID
+Clark,<20,Not Calculated,Not Calculated,0,ID
+Lemhi,<20,Not Calculated,Not Calculated,0,ID
+Adams,<20,Not Calculated,Not Calculated,0,ID
+Clearwater,<20,Not Calculated,Not Calculated,0,ID
+Custer,<20,Not Calculated,Not Calculated,0,ID
+Oneida,<20,Not Calculated,Not Calculated,0,ID
+Bear Lake,<20,Not Calculated,Not Calculated,0,ID
+Lewis,0,Not Calculated,Not Calculated,0,ID
+Butte,0,Not Calculated,Not Calculated,0,ID
+Hennepin,18641,31.8%,"1,473",828,MN
+Ramsey,7233,12.3%,"1,314",261,MN
+Dakota,4188,7.1%,976,104,MN
+Anoka,3515,6%,985,114,MN
+Stearns,2864,4.9%,"1,778",20,MN
+Washington,2009,3.4%,766,44,MN
+Nobles,1753,3%,"8,105",<20,MN
+Olmsted,1688,2.9%,"1,066",23,MN
+Scott,1479,2.5%,993,<20,MN
+Mower,1094,1.9%,"2,731",<20,MN
+Rice,1013,1.7%,"1,513",<20,MN
+Blue Earth,874,1.5%,"1,292",<20,MN
+Wright,847,1.4%,612,<20,MN
+Carver,816,1.4%,776,<20,MN
+Clay,768,1.3%,"1,196",40,MN
+Sherburne,703,1.2%,723,<20,MN
+Kandiyohi,687,1.2%,"1,590",<20,MN
+St. Louis,486,0.8%,244,<20,MN
+Todd,422,0.7%,"1,711",<20,MN
+Lyon,421,0.7%,"1,653",<20,MN
+Freeborn,358,0.6%,"1,182",<20,MN
+Steele,338,0.6%,922,<20,MN
+Nicollet,329,0.6%,960,<20,MN
+Benton,315,0.5%,770,<20,MN
+Watonwan,301,0.5%,"2,762",0,MN
+Winona,254,0.4%,503,<20,MN
+Crow Wing,225,0.4%,346,<20,MN
+Beltrami,215,0.4%,456,0,MN
+Le Sueur,210,0.4%,727,<20,MN
+Martin,204,0.3%,"1,036",<20,MN
+Chisago,189,0.3%,334,<20,MN
+Goodhue,187,0.3%,404,<20,MN
+Otter Tail,185,0.3%,315,<20,MN
+Cottonwood,175,0.3%,"1,563",0,MN
+Becker,150,0.3%,436,<20,MN
+McLeod,148,0.3%,412,0,MN
+Pipestone,147,0.3%,"1,611",<20,MN
+Polk,145,0.2%,462,<20,MN
+Waseca,138,0.2%,741,0,MN
+Douglas,136,0.2%,357,0,MN
+Itasca,135,0.2%,299,<20,MN
+Carlton,132,0.2%,368,0,MN
+Pine,128,0.2%,433,0,MN
+Dodge,125,0.2%,597,0,MN
+Murray,122,0.2%,"1,489",<20,MN
+Isanti,116,0.2%,286,0,MN
+Chippewa,101,0.2%,856,<20,MN
+Wabasha,87,0.1%,402,0,MN
+Brown,86,0.1%,344,<20,MN
+Morrison,85,0.1%,255,<20,MN
+Meeker,85,0.1%,366,<20,MN
+Faribault,83,0.1%,608,0,MN
+Sibley,82,0.1%,552,<20,MN
+Rock,77,0.1%,827,0,MN
+Koochiching,74,0.1%,605,<20,MN
+Pennington,73,0.1%,517,<20,MN
+Jackson,72,0.1%,731,0,MN
+Cass,71,0.1%,238,<20,MN
+Mille Lacs,69,0.1%,263,<20,MN
+Renville,62,0.1%,426,<20,MN
+Fillmore,61,0.1%,290,0,MN
+Lincoln,54,0.1%,958,0,MN
+Grant,52,0.1%,871,<20,MN
+Swift,52,0.1%,561,<20,MN
+Yellow Medicine,51,0.1%,525,0,MN
+Roseau,46,0.1%,303,0,MN
+Pope,46,0.1%,409,0,MN
+Houston,41,0.1%,220,0,MN
+Norman,37,0.1%,580,0,MN
+Redwood,32,0.1%,211,0,MN
+Wilkin,32,0.1%,516,<20,MN
+Kanabec,32,0.1%,196,<20,MN
+Hubbard,30,0.1%,140,0,MN
+Marshall,29,0.0 %,311,0,MN
+Aitkin,29,0.0 %,183,<20,MN
+Mahnomen,26,0.0 %,470,<20,MN
+Wadena,24,0.0 %,175,0,MN
+Red Lake,23,0.0 %,567,0,MN
+Big Stone,22,0.0 %,441,0,MN
+Lake,20,0.0 %,188,0,MN
+Lake of the Woods,<20,Not Calculated,Not Calculated,0,MN
+Cook,<20,Not Calculated,Not Calculated,0,MN
+Lac qui Parle,<20,Not Calculated,Not Calculated,0,MN
+Kittson,<20,Not Calculated,Not Calculated,0,MN
+Clearwater,<20,Not Calculated,Not Calculated,0,MN
+Traverse,<20,Not Calculated,Not Calculated,0,MN
+Stevens,<20,Not Calculated,Not Calculated,0,MN
+Fairfield,17926,35.7%,"1,900","1,406",CT
+New Haven,13128,26.1%,"1,536","1,104",CT
+Hartford,12745,25.4%,"1,429","1,414",CT
+Litchfield,1607,3.2%,891,138,CT
+New London,1431,2.8%,540,103,CT
+Middlesex,1395,2.8%,859,191,CT
+Tolland,1055,2.1%,700,66,CT
+Windham,724,1.4%,620,<20,CT
+Jefferson,7666,23.1%,"1,000",237,KY
+Fayette,2943,8.9%,911,47,KY
+Warren,2556,7.7%,"1,923",22,KY
+Kenton,1369,4.1%,820,39,KY
+Boone,1062,3.2%,795,24,KY
+Daviess,740,2.2%,729,<20,KY
+Shelby,732,2.2%,"1,493",22,KY
+Muhlenberg,622,1.9%,"2,031",<20,KY
+Oldham,596,1.8%,892,<20,KY
+Hardin,566,1.7%,510,<20,KY
+Campbell,551,1.7%,589,<20,KY
+Graves,534,1.6%,"1,433",23,KY
+Christian,481,1.4%,683,<20,KY
+Madison,444,1.3%,477,<20,KY
+Hopkins,416,1.3%,931,33,KY
+Laurel,406,1.2%,668,<20,KY
+Scott,356,1.1%,625,0,KY
+Barren,355,1.1%,802,<20,KY
+McCracken,355,1.1%,543,<20,KY
+Ohio,345,1%,"1,438",<20,KY
+Henderson,334,1%,739,<20,KY
+Bullitt,333,1%,408,<20,KY
+Jessamine,325,1%,601,0,KY
+Logan,315,0.9%,"1,162",23,KY
+Butler,298,0.9%,"2,314",<20,KY
+Bell,298,0.9%,"1,145",<20,KY
+Franklin,278,0.8%,545,<20,KY
+Pulaski,268,0.8%,412,<20,KY
+Pike,233,0.7%,403,<20,KY
+Knox,228,0.7%,732,<20,KY
+Allen,224,0.7%,"1,051",<20,KY
+Harlan,219,0.7%,842,<20,KY
+Calloway,217,0.7%,556,<20,KY
+Nelson,205,0.6%,443,<20,KY
+Adair,205,0.6%,"1,068",<20,KY
+Perry,203,0.6%,788,<20,KY
+Grayson,192,0.6%,727,<20,KY
+Boyd,184,0.6%,394,<20,KY
+Clark,168,0.5%,463,<20,KY
+Whitley,162,0.5%,447,<20,KY
+Casey,161,0.5%,996,<20,KY
+Carroll,150,0.5%,"1,411",<20,KY
+Boyle,149,0.4%,496,0,KY
+Woodford,148,0.4%,554,0,KY
+Clay,148,0.4%,744,<20,KY
+Simpson,146,0.4%,786,<20,KY
+Jackson,145,0.4%,"1,088",<20,KY
+Marshall,131,0.4%,421,<20,KY
+Harrison,119,0.4%,630,0,KY
+Marion,119,0.4%,617,0,KY
+Montgomery,116,0.3%,412,0,KY
+Spencer,112,0.3%,579,0,KY
+Henry,110,0.3%,682,<20,KY
+Grant,107,0.3%,427,<20,KY
+Taylor,106,0.3%,411,<20,KY
+Greenup,103,0.3%,293,<20,KY
+Carter,101,0.3%,377,<20,KY
+Russell,101,0.3%,564,<20,KY
+Lincoln,100,0.3%,407,<20,KY
+Edmonson,99,0.3%,815,<20,KY
+Floyd,93,0.3%,261,<20,KY
+Monroe,93,0.3%,873,<20,KY
+Meade,93,0.3%,325,<20,KY
+Hart,88,0.3%,462,0,KY
+Webster,84,0.3%,649,<20,KY
+Anderson,81,0.2%,356,<20,KY
+Mercer,80,0.2%,365,0,KY
+Gallatin,80,0.2%,902,<20,KY
+Bourbon,75,0.2%,379,<20,KY
+Washington,72,0.2%,595,0,KY
+Garrard,71,0.2%,402,0,KY
+Fulton,71,0.2%,"1,189",<20,KY
+Rowan,69,0.2%,282,0,KY
+Rockcastle,62,0.2%,371,0,KY
+Union,62,0.2%,431,0,KY
+Fleming,58,0.2%,398,0,KY
+Breckinridge,57,0.2%,278,<20,KY
+Metcalfe,57,0.2%,566,<20,KY
+Letcher,56,0.2%,260,0,KY
+Trigg,54,0.2%,369,0,KY
+Wayne,53,0.2%,261,0,KY
+Larue,53,0.2%,368,<20,KY
+Mason,53,0.2%,310,<20,KY
+Powell,51,0.2%,413,0,KY
+Knott,49,0.1%,331,<20,KY
+Caldwell,49,0.1%,384,0,KY
+Hancock,49,0.1%,562,0,KY
+Johnson,46,0.1%,207,0,KY
+Cumberland,46,0.1%,695,0,KY
+Owen,44,0.1%,404,0,KY
+McLean,43,0.1%,467,<20,KY
+Pendleton,43,0.1%,295,0,KY
+Hickman,39,0.1%,890,0,KY
+Lewis,37,0.1%,279,0,KY
+McCreary,37,0.1%,215,0,KY
+Lawrence,36,0.1%,235,0,KY
+Bath,36,0.1%,288,<20,KY
+Carlisle,36,0.1%,756,<20,KY
+Magoffin,34,0.1%,280,0,KY
+Martin,34,0.1%,304,0,KY
+Todd,34,0.1%,277,0,KY
+Lyon,33,0.1%,402,<20,KY
+Trimble,33,0.1%,390,0,KY
+Livingston,33,0.1%,359,<20,KY
+Ballard,32,0.1%,406,0,KY
+Green,31,0.1%,283,<20,KY
+Bracken,30,0.1%,361,0,KY
+Morgan,30,0.1%,225,0,KY
+Menifee,29,0.1%,447,0,KY
+Leslie,28,0.1%,283,0,KY
+Breathitt,28,0.1%,222,0,KY
+Crittenden,28,0.1%,318,<20,KY
+Clinton,28,0.1%,274,0,KY
+Nicholas,20,0.1%,275,0,KY
+Estill,<20,Not Calculated,Not Calculated,0,KY
+Owsley,<20,Not Calculated,Not Calculated,0,KY
+Lee,<20,Not Calculated,Not Calculated,0,KY
+Robertson,<20,Not Calculated,Not Calculated,0,KY
+Elliott,<20,Not Calculated,Not Calculated,0,KY
+Wolfe,<20,Not Calculated,Not Calculated,0,KY
+Los Angeles,201106,37.2%,"2,003","4,869",CA
+Riverside,39741,7.3%,"1,609",770,CA
+Orange,38711,7.2%,"1,219",697,CA
+San Bernardino,34635,6.4%,"1,589",490,CA
+San Diego,31127,5.8%,932,583,CA
+Kern,21724,4%,"2,413",152,CA
+Fresno,16625,3.1%,"1,664",157,CA
+Alameda,12468,2.3%,746,193,CA
+San Joaquin,12119,2.2%,"1,590",192,CA
+Santa Clara,11336,2.1%,588,196,CA
+Sacramento,10544,1.9%,679,155,CA
+Tulare,10334,1.9%,"2,217",196,CA
+Imperial,9601,1.8%,"5,298",240,CA
+Stanislaus,9408,1.7%,"1,708",151,CA
+Contra Costa,8532,1.6%,740,134,CA
+Ventura,8035,1.5%,950,79,CA
+San Francisco,7326,1.4%,831,63,CA
+Santa Barbara,6652,1.2%,"1,490",68,CA
+San Mateo,5978,1.1%,780,120,CA
+Marin,5250,1%,"2,028",78,CA
+Monterey,5120,0.9%,"1,180",35,CA
+Merced,4855,0.9%,"1,748",62,CA
+Kings,4453,0.8%,"2,912",56,CA
+Solano,3959,0.7%,884,39,CA
+Sonoma,3358,0.6%,679,42,CA
+Madera,2267,0.4%,"1,441",36,CA
+San Luis Obispo,2047,0.4%,723,<20,CA
+Placer,2039,0.4%,512,20,CA
+Yolo,1660,0.3%,753,42,CA
+Santa Cruz,1213,0.2%,444,<20,CA
+Butte,1060,0.2%,484,<20,CA
+Napa,1025,0.2%,744,<20,CA
+Sutter,893,0.2%,921,<20,CA
+El Dorado,716,0.1%,371,<20,CA
+San Benito,699,0.1%,"1,113",<20,CA
+Yuba,572,0.1%,727,<20,CA
+Shasta,411,0.1%,228,<20,CA
+Mendocino,363,0.1%,418,<20,CA
+Colusa,361,0.1%,"1,675",<20,CA
+Glenn,352,0.1%,"1,240",<20,CA
+Nevada,321,0.1%,322,<20,CA
+Humboldt,280,0.1%,207,<20,CA
+Tehama,271,0.1%,416,<20,CA
+Lake,212,0.0 %,329,<20,CA
+Amador,156,0.0 %,392,0,CA
+Mono,153,0.0 %,"1,059",<20,CA
+Tuolumne,147,0.0 %,270,<20,CA
+Calaveras,136,0.0 %,296,<20,CA
+Siskiyou,92,0.0 %,211,0,CA
+Del Norte,90,0.0 %,324,0,CA
+Lassen,65,0.0 %,213,0,CA
+Inyo,64,0.0 %,355,<20,CA
+Mariposa,60,0.0 %,349,<20,CA
+Plumas,33,0.0 %,175,0,CA
+Alpine,<20,Not Calculated,Not Calculated,0,CA
+Modoc,<20,Not Calculated,Not Calculated,0,CA
+Sierra,<20,Not Calculated,Not Calculated,0,CA
+Trinity,<20,Not Calculated,Not Calculated,0,CA
+Middlesex,26156,21.8%,"1,623","1,998",MA
+Suffolk,21631,18%,"2,691","1,066",MA
+Essex,17617,14.7%,"2,233","1,190",MA
+Worcester,13525,11.3%,"1,628",998,MA
+Norfolk,10515,8.8%,"1,488",994,MA
+Bristol,9272,7.7%,"1,640",629,MA
+Plymouth,9193,7.7%,"1,764",717,MA
+Hampden,7541,6.3%,"1,617",700,MA
+Barnstable,1783,1.5%,837,157,MA
+Hampshire,1158,1%,720,128,MA
+Berkshire,666,0.6%,533,46,MA
+Franklin,409,0.3%,583,61,MA
+Dukes,66,0.1%,381,0,MA
+Nantucket,34,0.0 %,298,<20,MA
+Yellowstone,1110,26.2%,688,27,MT
+Gallatin,868,20.5%,759,<20,MT
+Big Horn,348,8.2%,"2,613",<20,MT
+Missoula,267,6.3%,223,<20,MT
+Flathead,263,6.2%,253,<20,MT
+Lake,164,3.9%,538,<20,MT
+Cascade,150,3.5%,184,<20,MT
+Lewis and Clark,135,3.2%,194,<20,MT
+Madison,76,1.8%,884,<20,MT
+Ravalli,73,1.7%,167,<20,MT
+Lincoln,70,1.7%,350,<20,MT
+Silver Bow,66,1.6%,189,0,MT
+Carbon,58,1.4%,541,0,MT
+Glacier,58,1.4%,422,<20,MT
+Park,52,1.2%,313,0,MT
+Custer,52,1.2%,456,<20,MT
+Beaverhead,47,1.1%,497,0,MT
+Richland,46,1.1%,426,<20,MT
+Hill,40,0.9%,243,0,MT
+Toole,31,0.7%,655,<20,MT
+Jefferson,27,0.6%,221,0,MT
+Rosebud,22,0.5%,246,<20,MT
+Deer Lodge,20,0.5%,219,0,MT
+Chouteau,<20,Not Calculated,Not Calculated,0,MT
+Powell,<20,Not Calculated,Not Calculated,0,MT
+Valley,<20,Not Calculated,Not Calculated,0,MT
+Fergus,<20,Not Calculated,Not Calculated,0,MT
+Judith Basin,<20,Not Calculated,Not Calculated,0,MT
+McCone,<20,Not Calculated,Not Calculated,0,MT
+Meagher,<20,Not Calculated,Not Calculated,0,MT
+Pondera,<20,Not Calculated,Not Calculated,0,MT
+Roosevelt,<20,Not Calculated,Not Calculated,0,MT
+Teton,<20,Not Calculated,Not Calculated,0,MT
+Blaine,<20,Not Calculated,Not Calculated,0,MT
+Broadwater,<20,Not Calculated,Not Calculated,0,MT
+Garfield,<20,Not Calculated,Not Calculated,0,MT
+Sanders,<20,Not Calculated,Not Calculated,0,MT
+Powder River,<20,Not Calculated,Not Calculated,0,MT
+Daniels,<20,Not Calculated,Not Calculated,0,MT
+Stillwater,<20,Not Calculated,Not Calculated,0,MT
+Granite,<20,Not Calculated,Not Calculated,0,MT
+Musselshell,<20,Not Calculated,Not Calculated,0,MT
+Treasure,<20,Not Calculated,Not Calculated,0,MT
+Wheatland,<20,Not Calculated,Not Calculated,0,MT
+Dawson,<20,Not Calculated,Not Calculated,0,MT
+Fallon,<20,Not Calculated,Not Calculated,0,MT
+Golden Valley,<20,Not Calculated,Not Calculated,0,MT
+Liberty,<20,Not Calculated,Not Calculated,0,MT
+Sweet Grass,<20,Not Calculated,Not Calculated,<20,MT
+Wibaux,<20,Not Calculated,Not Calculated,0,MT
+Sheridan,<20,Not Calculated,Not Calculated,0,MT
+Carter,0,Not Calculated,Not Calculated,0,MT
+Mineral,0,Not Calculated,Not Calculated,0,MT
+Prairie,0,Not Calculated,Not Calculated,0,MT
+Petroleum,0,Not Calculated,Not Calculated,0,MT
+Phillips,0,Not Calculated,Not Calculated,0,MT
+Douglas,10480,39.5%,"1,834",131,NE
+Lancaster,3102,11.7%,972,<20,NE
+Sarpy,2028,7.6%,"1,083",<20,NE
+Dakota,1901,7.2%,"9,493",41,NE
+Hall,1713,6.4%,"2,792",45,NE
+Dawson,949,3.6%,"4,022",<20,NE
+Dodge,772,2.9%,"2,111",<20,NE
+Platte,766,2.9%,"2,289",<20,NE
+Colfax,694,2.6%,"6,481",<20,NE
+Saline,583,2.2%,"4,099",<20,NE
+Madison,419,1.6%,"1,194",<20,NE
+Buffalo,347,1.3%,699,<20,NE
+Adams,341,1.3%,"1,087",<20,NE
+Scotts Bluff,289,1.1%,811,<20,NE
+Thurston,201,0.8%,"2,782",<20,NE
+Cass,157,0.6%,598,<20,NE
+Saunders,138,0.5%,640,<20,NE
+Washington,106,0.4%,511,<20,NE
+Hamilton,96,0.4%,"1,030",<20,NE
+Seward,96,0.4%,555,<20,NE
+Lincoln,95,0.4%,272,<20,NE
+Gage,82,0.3%,381,<20,NE
+York,74,0.3%,541,0,NE
+Morrill,58,0.2%,"1,249",0,NE
+Cuming,58,0.2%,656,0,NE
+Butler,56,0.2%,699,0,NE
+Dixon,56,0.2%,994,<20,NE
+Howard,55,0.2%,853,<20,NE
+Merrick,54,0.2%,696,0,NE
+Clay,48,0.2%,774,0,NE
+Custer,43,0.2%,399,<20,NE
+Otoe,42,0.2%,262,0,NE
+Phelps,36,0.1%,398,0,NE
+Wayne,35,0.1%,373,0,NE
+Kearney,34,0.1%,523,0,NE
+Knox,31,0.1%,372,0,NE
+Stanton,28,0.1%,473,0,NE
+Cheyenne,26,0.1%,292,0,NE
+Burt,25,0.1%,387,0,NE
+Thayer,25,0.1%,500,0,NE
+Fillmore,24,0.1%,439,<20,NE
+Polk,24,0.1%,460,0,NE
+Nemaha,21,0.1%,301,0,NE
+Cedar,21,0.1%,250,0,NE
+Richardson,20,0.1%,254,<20,NE
+Thomas,<20,Not Calculated,Not Calculated,0,NE
+Garden,<20,Not Calculated,Not Calculated,0,NE
+Banner,<20,Not Calculated,Not Calculated,0,NE
+Furnas,<20,Not Calculated,Not Calculated,<20,NE
+Garfield,<20,Not Calculated,Not Calculated,0,NE
+Holt,<20,Not Calculated,Not Calculated,0,NE
+Jefferson,<20,Not Calculated,Not Calculated,0,NE
+Pawnee,<20,Not Calculated,Not Calculated,0,NE
+Sheridan,<20,Not Calculated,Not Calculated,0,NE
+Antelope,<20,Not Calculated,Not Calculated,<20,NE
+Chase,<20,Not Calculated,Not Calculated,0,NE
+Cherry,<20,Not Calculated,Not Calculated,0,NE
+Boyd,<20,Not Calculated,Not Calculated,0,NE
+Rock,<20,Not Calculated,Not Calculated,0,NE
+Boone,<20,Not Calculated,Not Calculated,0,NE
+Greeley,<20,Not Calculated,Not Calculated,0,NE
+Harlan,<20,Not Calculated,Not Calculated,0,NE
+Hooker,<20,Not Calculated,Not Calculated,0,NE
+Keith,<20,Not Calculated,Not Calculated,0,NE
+Nance,<20,Not Calculated,Not Calculated,0,NE
+Perkins,<20,Not Calculated,Not Calculated,<20,NE
+Pierce,<20,Not Calculated,Not Calculated,0,NE
+Red Willow,<20,Not Calculated,Not Calculated,0,NE
+Sherman,<20,Not Calculated,Not Calculated,0,NE
+Valley,<20,Not Calculated,Not Calculated,0,NE
+Gosper,<20,Not Calculated,Not Calculated,0,NE
+Box Butte,<20,Not Calculated,Not Calculated,0,NE
+Dundy,<20,Not Calculated,Not Calculated,0,NE
+Johnson,<20,Not Calculated,Not Calculated,0,NE
+Franklin,<20,Not Calculated,Not Calculated,0,NE
+Kimball,<20,Not Calculated,Not Calculated,0,NE
+Nuckolls,<20,Not Calculated,Not Calculated,0,NE
+Frontier,<20,Not Calculated,Not Calculated,0,NE
+Webster,<20,Not Calculated,Not Calculated,0,NE
+Sioux,<20,Not Calculated,Not Calculated,0,NE
+Dawes,<20,Not Calculated,Not Calculated,0,NE
+Deuel,<20,Not Calculated,Not Calculated,0,NE
+Hitchcock,<20,Not Calculated,Not Calculated,0,NE
+McPherson,<20,Not Calculated,Not Calculated,0,NE
+Logan,0,Not Calculated,Not Calculated,0,NE
+Keya Paha,0,Not Calculated,Not Calculated,0,NE
+Blaine,0,Not Calculated,Not Calculated,0,NE
+Loup,0,Not Calculated,Not Calculated,0,NE
+Wheeler,0,Not Calculated,Not Calculated,0,NE
+Brown,0,Not Calculated,Not Calculated,0,NE
+Grant,0,Not Calculated,Not Calculated,0,NE
+Hayes,0,Not Calculated,Not Calculated,0,NE
+Arthur,0,Not Calculated,Not Calculated,0,NE
+Clark,44066,86.1%,"1,944",702,NV
+Washoe,5343,10.4%,"1,133",115,NV
+Elko,488,1%,925,<20,NV
+Nye,318,0.6%,684,<20,NV
+Carson City,318,0.6%,569,<20,NV
+Lyon,206,0.4%,358,<20,NV
+Douglas,180,0.4%,368,0,NV
+Humboldt,96,0.2%,570,<20,NV
+Lander,50,0.1%,904,<20,NV
+Churchill,48,0.1%,193,<20,NV
+Pershing,<20,Not Calculated,Not Calculated,0,NV
+White Pine,<20,Not Calculated,Not Calculated,<20,NV
+Eureka,<20,Not Calculated,Not Calculated,0,NV
+Storey,<20,Not Calculated,Not Calculated,0,NV
+Lincoln,<20,Not Calculated,Not Calculated,0,NV
+Mineral,<20,Not Calculated,Not Calculated,0,NV
+Esmeralda,0,Not Calculated,Not Calculated,0,NV
+Bernalillo,4879,23.1%,718,123,NM
+McKinley,4004,18.9%,"5,610",221,NM
+San Juan,3003,14.2%,"2,423",181,NM
+Doña Ana,2240,10.6%,"1,027",24,NM
+Sandoval,1096,5.2%,747,33,NM
+Lea,656,3.1%,923,<20,NM
+Santa Fe,597,2.8%,397,<20,NM
+Curry,483,2.3%,987,<20,NM
+Valencia,373,1.8%,486,<20,NM
+Chaves,367,1.7%,568,<20,NM
+Cibola,340,1.6%,"1,275",<20,NM
+Rio Arriba,296,1.4%,761,<20,NM
+Eddy,258,1.2%,441,<20,NM
+Luna,235,1.1%,991,<20,NM
+Otero,188,0.9%,279,<20,NM
+Roosevelt,142,0.7%,768,<20,NM
+Lincoln,109,0.5%,557,<20,NM
+Taos,99,0.5%,303,<20,NM
+Hidalgo,88,0.4%,"2,096",0,NM
+Socorro,73,0.3%,439,<20,NM
+Grant,68,0.3%,252,<20,NM
+Torrance,60,0.3%,388,<20,NM
+San Miguel,42,0.2%,154,0,NM
+Quay,33,0.2%,400,<20,NM
+Guadalupe,31,0.1%,721,0,NM
+Sierra,30,0.1%,278,0,NM
+Union,27,0.1%,665,0,NM
+Los Alamos,20,0.1%,103,0,NM
+Harding,<20,Not Calculated,Not Calculated,0,NM
+Mora,<20,Not Calculated,Not Calculated,0,NM
+Catron,<20,Not Calculated,Not Calculated,<20,NM
+Colfax,<20,Not Calculated,Not Calculated,<20,NM
+De Baca,0,Not Calculated,Not Calculated,0,NM
+Queens,68166,16.3%,"3,024","7,184",NY
+Kings,62641,15%,"2,447","7,251",NY
+Bronx,49714,11.9%,"3,505","4,859",NY
+Suffolk,43495,10.4%,"2,946","1,997",NY
+Nassau,43480,10.4%,"3,204","2,194",NY
+Westchester,36014,8.6%,"3,722","1,446",NY
+New York,30621,7.3%,"1,880","3,149",NY
+Richmond,14822,3.6%,"3,113","1,079",NY
+Rockland,13885,3.3%,"4,262",507,NY
+Orange,11096,2.7%,"2,883",407,NY
+Erie,8626,2.1%,939,595,NY
+Monroe,4790,1.1%,646,252,NY
+Dutchess,4543,1.1%,"1,544",153,NY
+Onondaga,3490,0.8%,758,174,NY
+Albany,2531,0.6%,828,116,NY
+Oneida,2090,0.5%,914,115,NY
+Ulster,2031,0.5%,"1,144",81,NY
+Sullivan,1483,0.4%,"1,966",37,NY
+Niagara,1449,0.3%,692,88,NY
+Putnam,1433,0.3%,"1,457",63,NY
+Broome,1064,0.3%,559,74,NY
+Schenectady,1037,0.2%,668,39,NY
+Rensselaer,740,0.2%,466,35,NY
+Saratoga,733,0.2%,319,<20,NY
+Columbia,523,0.1%,880,47,NY
+Madison,401,0.1%,565,<20,NY
+Ontario,351,0.1%,320,27,NY
+Warren,300,0.1%,469,30,NY
+Orleans,295,0.1%,731,55,NY
+Steuben,292,0.1%,306,39,NY
+Greene,289,0.1%,612,<20,NY
+Fulton,285,0.1%,534,28,NY
+Genesee,273,0.1%,477,<20,NY
+St. Lawrence,262,0.1%,243,<20,NY
+Washington,255,0.1%,417,<20,NY
+Oswego,248,0.1%,212,<20,NY
+Wayne,247,0.1%,275,<20,NY
+Herkimer,246,0.1%,401,<20,NY
+Chautauqua,234,0.1%,184,<20,NY
+Tompkins,230,0.1%,225,0,NY
+Chenango,211,0.1%,447,<20,NY
+Tioga,190,0.0 %,394,21,NY
+Livingston,167,0.0 %,265,<20,NY
+Chemung,163,0.0 %,195,<20,NY
+Cattaraugus,162,0.0 %,213,<20,NY
+Montgomery,160,0.0 %,325,<20,NY
+Cayuga,148,0.0 %,193,<20,NY
+Jefferson,134,0.0 %,122,<20,NY
+Clinton,127,0.0 %,158,<20,NY
+Otsego,114,0.0 %,192,<20,NY
+Wyoming,113,0.0 %,283,<20,NY
+Delaware,104,0.0 %,236,<20,NY
+Cortland,92,0.0 %,193,<20,NY
+Seneca,86,0.0 %,253,<20,NY
+Allegany,75,0.0 %,163,<20,NY
+Schoharie,68,0.0 %,219,<20,NY
+Yates,55,0.0 %,221,<20,NY
+Essex,55,0.0 %,149,0,NY
+Franklin,50,0.0 %,100,<20,NY
+Lewis,35,0.0 %,133,<20,NY
+Schuyler,22,0.0 %,124,0,NY
+Hamilton,<20,Not Calculated,Not Calculated,<20,NY
+Mecklenburg,21015,16.6%,"1,893",212,NC
+Wake,11235,8.9%,"1,011",133,NC
+Durham,5909,4.7%,"1,838",78,NC
+Guilford,5254,4.2%,978,147,NC
+Forsyth,4955,3.9%,"1,296",48,NC
+Johnston,3085,2.4%,"1,474",43,NC
+Gaston,3035,2.4%,"1,352",39,NC
+Union,2823,2.2%,"1,177",41,NC
+Cumberland,2762,2.2%,823,50,NC
+Robeson,2658,2.1%,"2,035",51,NC
+Cabarrus,2430,1.9%,"1,123",46,NC
+New Hanover,2358,1.9%,"1,006",<20,NC
+Wayne,2328,1.8%,"1,891",37,NC
+Alamance,2248,1.8%,"1,326",41,NC
+Randolph,2065,1.6%,"1,437",36,NC
+Rowan,2032,1.6%,"1,430",48,NC
+Duplin,1939,1.5%,"3,301",43,NC
+Catawba,1933,1.5%,"1,212",24,NC
+Pitt,1795,1.4%,993,<20,NC
+Buncombe,1715,1.4%,657,46,NC
+Iredell,1701,1.3%,936,<20,NC
+Davidson,1653,1.3%,986,<20,NC
+Burke,1562,1.2%,"1,726",26,NC
+Sampson,1427,1.1%,"2,246",<20,NC
+Wilson,1418,1.1%,"1,733",34,NC
+Henderson,1374,1.1%,"1,170",53,NC
+Orange,1293,1%,871,45,NC
+Chatham,1245,1%,"1,672",50,NC
+Lee,1217,1%,"1,970",<20,NC
+Brunswick,1198,0.9%,839,<20,NC
+Granville,1185,0.9%,"1,961",25,NC
+Harnett,1158,0.9%,852,36,NC
+Caldwell,1138,0.9%,"1,385",<20,NC
+Nash,1063,0.8%,"1,127",<20,NC
+Cleveland,1037,0.8%,"1,059",<20,NC
+Onslow,934,0.7%,472,<20,NC
+Moore,909,0.7%,901,20,NC
+Stanly,906,0.7%,"1,443",<20,NC
+Surry,872,0.7%,"1,215",<20,NC
+Columbus,833,0.7%,"1,501",46,NC
+Franklin,797,0.6%,"1,144",25,NC
+Lincoln,751,0.6%,872,<20,NC
+Vance,738,0.6%,"1,657",40,NC
+Wilkes,736,0.6%,"1,076",<20,NC
+Hoke,674,0.5%,"1,220",<20,NC
+Rutherford,668,0.5%,997,<20,NC
+Halifax,642,0.5%,"1,284",<20,NC
+Craven,634,0.5%,621,<20,NC
+Pender,626,0.5%,993,<20,NC
+McDowell,609,0.5%,"1,331",<20,NC
+Montgomery,594,0.5%,"2,186",<20,NC
+Bladen,589,0.5%,"1,800",<20,NC
+Edgecombe,589,0.5%,"1,144",<20,NC
+Lenoir,536,0.4%,958,<20,NC
+Yadkin,496,0.4%,"1,317",<20,NC
+Richmond,481,0.4%,"1,073",<20,NC
+Rockingham,480,0.4%,527,<20,NC
+Macon,450,0.4%,"1,255",<20,NC
+Jackson,395,0.3%,899,<20,NC
+Davie,376,0.3%,878,<20,NC
+Pasquotank,359,0.3%,901,<20,NC
+Beaufort,351,0.3%,747,<20,NC
+Haywood,348,0.3%,558,<20,NC
+Greene,311,0.2%,"1,476",<20,NC
+Anson,303,0.2%,"1,239",<20,NC
+Carteret,300,0.2%,432,<20,NC
+Hertford,295,0.2%,"1,246",<20,NC
+Scotland,286,0.2%,821,<20,NC
+Northampton,279,0.2%,"1,432",<20,NC
+Alexander,271,0.2%,723,<20,NC
+Stokes,266,0.2%,583,<20,NC
+Watauga,261,0.2%,465,0,NC
+Bertie,249,0.2%,"1,314",<20,NC
+Warren,243,0.2%,"1,232",<20,NC
+Martin,240,0.2%,"1,070",<20,NC
+Cherokee,239,0.2%,835,<20,NC
+Dare,202,0.2%,546,<20,NC
+Person,201,0.2%,509,<20,NC
+Caswell,186,0.1%,823,<20,NC
+Alleghany,156,0.1%,"1,401",0,NC
+Chowan,144,0.1%,"1,033",<20,NC
+Polk,140,0.1%,676,<20,NC
+Transylvania,128,0.1%,372,<20,NC
+Washington,121,0.1%,"1,045",<20,NC
+Ashe,120,0.1%,441,<20,NC
+Swain,105,0.1%,736,<20,NC
+Tyrrell,90,0.1%,"2,241",<20,NC
+Avery,84,0.1%,478,0,NC
+Mitchell,78,0.1%,521,<20,NC
+Jones,74,0.1%,786,<20,NC
+Yancey,73,0.1%,404,0,NC
+Perquimans,71,0.1%,527,<20,NC
+Currituck,70,0.1%,252,0,NC
+Camden,63,0.0 %,580,<20,NC
+Pamlico,60,0.0 %,471,<20,NC
+Clay,58,0.0 %,516,0,NC
+Gates,45,0.0 %,389,<20,NC
+Madison,40,0.0 %,184,0,NC
+Hyde,37,0.0 %,749,0,NC
+Graham,27,0.0 %,320,0,NC
+Cass,2932,43.2%,"1,612",76,ND
+Burleigh,979,14.4%,"1,024",<20,ND
+Grand Forks,637,9.4%,917,<20,ND
+Morton,281,4.1%,896,<20,ND
+Williams,233,3.4%,620,<20,ND
+Stark,214,3.2%,680,<20,ND
+Ward,191,2.8%,282,<20,ND
+Mountrail,119,1.8%,"1,128",<20,ND
+Stutsman,118,1.7%,570,<20,ND
+Walsh,98,1.4%,921,0,ND
+Benson,94,1.4%,"1,376",<20,ND
+Richland,93,1.4%,575,0,ND
+McKenzie,79,1.2%,526,<20,ND
+Sioux,59,0.9%,"1,395",0,ND
+Ramsey,47,0.7%,408,<20,ND
+Traill,46,0.7%,572,0,ND
+McLean,39,0.6%,413,0,ND
+Barnes,34,0.5%,326,0,ND
+Rolette,34,0.5%,240,0,ND
+Cavalier,31,0.5%,824,0,ND
+Griggs,30,0.4%,"1,345",0,ND
+Dunn,30,0.4%,678,0,ND
+Pembina,27,0.4%,397,0,ND
+McIntosh,26,0.4%,"1,041",<20,ND
+Ransom,26,0.4%,498,0,ND
+Mercer,23,0.3%,281,0,ND
+Burke,22,0.3%,"1,040",0,ND
+Grant,<20,Not Calculated,Not Calculated,0,ND
+Golden Valley,<20,Not Calculated,Not Calculated,0,ND
+Billings,<20,Not Calculated,Not Calculated,0,ND
+Divide,<20,Not Calculated,Not Calculated,0,ND
+Eddy,<20,Not Calculated,Not Calculated,0,ND
+LaMoure,<20,Not Calculated,Not Calculated,0,ND
+Oliver,<20,Not Calculated,Not Calculated,0,ND
+Towner,<20,Not Calculated,Not Calculated,0,ND
+Wells,<20,Not Calculated,Not Calculated,0,ND
+Adams,<20,Not Calculated,Not Calculated,0,ND
+Bottineau,<20,Not Calculated,Not Calculated,0,ND
+Bowman,<20,Not Calculated,Not Calculated,0,ND
+Dickey,<20,Not Calculated,Not Calculated,0,ND
+Kidder,<20,Not Calculated,Not Calculated,0,ND
+Logan,<20,Not Calculated,Not Calculated,0,ND
+McHenry,<20,Not Calculated,Not Calculated,<20,ND
+Nelson,<20,Not Calculated,Not Calculated,0,ND
+Sargent,<20,Not Calculated,Not Calculated,0,ND
+Slope,<20,Not Calculated,Not Calculated,0,ND
+Emmons,<20,Not Calculated,Not Calculated,<20,ND
+Sheridan,<20,Not Calculated,Not Calculated,0,ND
+Hettinger,<20,Not Calculated,Not Calculated,0,ND
+Pierce,<20,Not Calculated,Not Calculated,0,ND
+Foster,<20,Not Calculated,Not Calculated,0,ND
+Renville,<20,Not Calculated,Not Calculated,0,ND
+Steele,<20,Not Calculated,Not Calculated,0,ND
+Oklahoma,9439,24.5%,"1,184",98,OK
+Tulsa,9159,23.7%,"1,406",101,OK
+Cleveland,2725,7.1%,959,49,OK
+Canadian,1089,2.8%,734,<20,OK
+Texas,1036,2.7%,"5,184",<20,OK
+McCurtain,829,2.1%,"2,525",25,OK
+Rogers,823,2.1%,890,<20,OK
+Comanche,778,2%,644,<20,OK
+Wagoner,738,1.9%,908,22,OK
+Payne,672,1.7%,822,<20,OK
+Washington,575,1.5%,"1,116",39,OK
+Creek,500,1.3%,699,<20,OK
+Jackson,486,1.3%,"1,981",<20,OK
+Muskogee,448,1.2%,659,<20,OK
+Grady,412,1.1%,738,<20,OK
+Delaware,403,1%,937,<20,OK
+Pottawatomie,400,1%,551,<20,OK
+McClain,397,1%,981,<20,OK
+Okmulgee,396,1%,"1,030",<20,OK
+Bryan,385,1%,802,<20,OK
+Caddo,373,1%,"1,297",<20,OK
+Garfield,372,1%,609,<20,OK
+Osage,367,1%,781,<20,OK
+Cherokee,351,0.9%,721,<20,OK
+Ottawa,347,0.9%,"1,115",<20,OK
+Carter,308,0.8%,640,<20,OK
+Adair,305,0.8%,"1,374",<20,OK
+Mayes,285,0.7%,693,<20,OK
+Sequoyah,264,0.7%,635,<20,OK
+Le Flore,249,0.6%,499,<20,OK
+Kay,217,0.6%,498,<20,OK
+Garvin,208,0.5%,751,<20,OK
+Pittsburg,201,0.5%,460,<20,OK
+Seminole,193,0.5%,796,<20,OK
+Custer,192,0.5%,662,0,OK
+Logan,189,0.5%,394,<20,OK
+Pontotoc,177,0.5%,462,<20,OK
+Stephens,175,0.5%,406,<20,OK
+Choctaw,166,0.4%,"1,131",<20,OK
+McIntosh,151,0.4%,771,<20,OK
+Lincoln,132,0.3%,378,<20,OK
+Pawnee,122,0.3%,745,<20,OK
+Kingfisher,111,0.3%,704,0,OK
+Hughes,111,0.3%,836,<20,OK
+Pushmataha,100,0.3%,901,0,OK
+Marshall,97,0.3%,573,0,OK
+Greer,81,0.2%,"1,418",<20,OK
+Craig,77,0.2%,544,0,OK
+Noble,77,0.2%,692,<20,OK
+Latimer,71,0.2%,705,<20,OK
+Love,65,0.2%,634,0,OK
+Atoka,64,0.2%,465,0,OK
+Murray,60,0.2%,426,0,OK
+Okfuskee,57,0.1%,475,0,OK
+Tillman,56,0.1%,772,<20,OK
+Nowata,56,0.1%,556,<20,OK
+Beckham,45,0.1%,206,<20,OK
+Haskell,43,0.1%,341,0,OK
+Johnston,40,0.1%,361,0,OK
+Blaine,38,0.1%,403,0,OK
+Beaver,36,0.1%,678,0,OK
+Woodward,32,0.1%,158,0,OK
+Jefferson,31,0.1%,516,0,OK
+Kiowa,27,0.1%,310,<20,OK
+Coal,27,0.1%,491,0,OK
+Harmon,25,0.1%,942,0,OK
+Major,25,0.1%,328,<20,OK
+Washita,24,0.1%,220,0,OK
+Alfalfa,<20,Not Calculated,Not Calculated,0,OK
+Ellis,<20,Not Calculated,Not Calculated,0,OK
+Woods,<20,Not Calculated,Not Calculated,0,OK
+Roger Mills,<20,Not Calculated,Not Calculated,0,OK
+Cotton,<20,Not Calculated,Not Calculated,<20,OK
+Dewey,<20,Not Calculated,Not Calculated,0,OK
+Grant,<20,Not Calculated,Not Calculated,0,OK
+Cimarron,<20,Not Calculated,Not Calculated,0,OK
+Harper,<20,Not Calculated,Not Calculated,0,OK
+Multnomah,4497,23.2%,553,93,OR
+Washington,2849,14.7%,474,23,OR
+Marion,2692,13.9%,774,68,OR
+Umatilla,2060,10.6%,"2,643",24,OR
+Clackamas,1421,7.3%,340,36,OR
+Malheur,676,3.5%,"2,211",<20,OR
+Deschutes,540,2.8%,273,<20,OR
+Lane,523,2.7%,137,<20,OR
+Lincoln,395,2%,791,<20,OR
+Jackson,394,2%,178,<20,OR
+Union,388,2%,"1,446",<20,OR
+Yamhill,386,2%,360,<20,OR
+Jefferson,311,1.6%,"1,261",<20,OR
+Morrow,305,1.6%,"2,629",<20,OR
+Polk,296,1.5%,344,<20,OR
+Linn,254,1.3%,196,<20,OR
+Klamath,196,1%,287,<20,OR
+Wasco,170,0.9%,637,<20,OR
+Hood River,169,0.9%,723,0,OR
+Benton,157,0.8%,169,<20,OR
+Douglas,134,0.7%,121,<20,OR
+Josephine,107,0.6%,122,<20,OR
+Coos,85,0.4%,132,0,OR
+Clatsop,82,0.4%,204,0,OR
+Columbia,79,0.4%,151,0,OR
+Crook,43,0.2%,176,<20,OR
+Baker,33,0.2%,205,0,OR
+Lake,32,0.2%,407,0,OR
+Tillamook,30,0.2%,111,0,OR
+Gilliam,<20,Not Calculated,Not Calculated,0,OR
+Sherman,<20,Not Calculated,Not Calculated,0,OR
+Grant,<20,Not Calculated,Not Calculated,0,OR
+Curry,<20,Not Calculated,Not Calculated,0,OR
+Harney,<20,Not Calculated,Not Calculated,0,OR
+Wallowa,<20,Not Calculated,Not Calculated,<20,OR
+Wheeler,0,Not Calculated,Not Calculated,0,OR
+Philadelphia,25977,22.8%,"1,640","1,681",PA
+Montgomery,9870,8.6%,"1,188",850,PA
+Delaware,8859,7.8%,"1,563",687,PA
+Allegheny,8310,7.3%,683,234,PA
+Bucks,7020,6.1%,"1,117",579,PA
+Lancaster,5682,5%,"1,041",407,PA
+Berks,5218,4.6%,"1,239",365,PA
+Chester,4914,4.3%,936,344,PA
+Lehigh,4853,4.3%,"1,314",335,PA
+Northampton,3863,3.4%,"1,265",290,PA
+Luzerne,3338,2.9%,"1,052",183,PA
+Dauphin,2682,2.3%,964,155,PA
+York,2350,2.1%,523,88,PA
+Lackawanna,1901,1.7%,907,212,PA
+Monroe,1598,1.4%,939,123,PA
+Lebanon,1577,1.4%,"1,112",54,PA
+Westmoreland,1457,1.3%,418,46,PA
+Franklin,1284,1.1%,828,46,PA
+Beaver,1237,1.1%,755,89,PA
+Cumberland,1230,1.1%,485,70,PA
+Erie,983,0.9%,364,<20,PA
+Schuylkill,896,0.8%,634,49,PA
+Washington,764,0.7%,369,<20,PA
+Butler,605,0.5%,322,<20,PA
+Pike,526,0.5%,943,21,PA
+Adams,480,0.4%,466,20,PA
+Columbia,462,0.4%,711,35,PA
+Fayette,414,0.4%,320,<20,PA
+Northumberland,407,0.4%,448,<20,PA
+Carbon,360,0.3%,561,28,PA
+Centre,358,0.3%,220,<20,PA
+Mercer,356,0.3%,325,<20,PA
+Lawrence,349,0.3%,408,<20,PA
+Lycoming,339,0.3%,299,20,PA
+Huntingdon,290,0.3%,642,<20,PA
+Indiana,275,0.2%,327,<20,PA
+Cambria,274,0.2%,210,<20,PA
+Blair,233,0.2%,191,<20,PA
+Susquehanna,210,0.2%,521,26,PA
+Armstrong,188,0.2%,290,<20,PA
+Union,173,0.2%,385,<20,PA
+Wayne,158,0.1%,308,<20,PA
+Clearfield,141,0.1%,178,0,PA
+Crawford,132,0.1%,156,<20,PA
+Bedford,130,0.1%,271,<20,PA
+Juniata,127,0.1%,513,<20,PA
+Somerset,125,0.1%,170,<20,PA
+Perry,120,0.1%,259,<20,PA
+Clinton,115,0.1%,298,<20,PA
+Greene,109,0.1%,301,<20,PA
+Mifflin,109,0.1%,236,<20,PA
+Snyder,98,0.1%,243,<20,PA
+Montour,93,0.1%,510,<20,PA
+Bradford,82,0.1%,136,<20,PA
+Clarion,76,0.1%,198,<20,PA
+Venango,62,0.1%,122,0,PA
+Jefferson,58,0.1%,134,<20,PA
+Wyoming,57,0.0 %,213,<20,PA
+Elk,45,0.0 %,150,<20,PA
+Tioga,35,0.0 %,86,<20,PA
+McKean,33,0.0 %,81,<20,PA
+Fulton,24,0.0 %,165,<20,PA
+Potter,20,0.0 %,121,0,PA
+Sullivan,<20,Not Calculated,Not Calculated,0,PA
+Forest,<20,Not Calculated,Not Calculated,0,PA
+Warren,<20,Not Calculated,Not Calculated,<20,PA
+Cameron,<20,Not Calculated,Not Calculated,0,PA
+Providence,14549,81.1%,"2,277",807,RI
+Kent,1421,7.9%,865,102,RI
+Washington,590,3.3%,470,61,RI
+Newport,380,2.1%,463,<20,RI
+Bristol,304,1.7%,627,<20,RI
+Charleston,11697,12.7%,"2,843",161,SC
+Greenville,10282,11.1%,"1,964",180,SC
+Horry,8147,8.8%,"2,301",128,SC
+Richland,7889,8.5%,"1,897",139,SC
+Lexington,4621,5%,"1,547",102,SC
+Berkeley,3871,4.2%,"1,698",58,SC
+Spartanburg,3789,4.1%,"1,185",85,SC
+Beaufort,3672,4%,"1,911",46,SC
+York,3229,3.5%,"1,149",27,SC
+Florence,3087,3.3%,"2,232",99,SC
+Dorchester,2829,3.1%,"1,738",38,SC
+Sumter,2313,2.5%,"2,167",43,SC
+Orangeburg,2229,2.4%,"2,587",57,SC
+Anderson,2100,2.3%,"1,037",45,SC
+Pickens,1744,1.9%,"1,374",22,SC
+Aiken,1505,1.6%,881,22,SC
+Georgetown,1306,1.4%,"2,084",<20,SC
+Greenwood,1272,1.4%,"1,796",<20,SC
+Kershaw,1264,1.4%,"1,899",23,SC
+Laurens,1232,1.3%,"1,825",32,SC
+Darlington,1132,1.2%,"1,699",32,SC
+Lancaster,1062,1.1%,"1,084",<20,SC
+Williamsburg,936,1%,"3,082",27,SC
+Clarendon,785,0.8%,"2,326",49,SC
+Newberry,779,0.8%,"2,027",<20,SC
+Colleton,764,0.8%,"2,028",31,SC
+Oconee,755,0.8%,949,<20,SC
+Chesterfield,706,0.8%,"1,547",<20,SC
+Dillon,578,0.6%,"1,896",23,SC
+Chester,573,0.6%,"1,777",<20,SC
+Cherokee,558,0.6%,974,22,SC
+Fairfield,533,0.6%,"2,385",23,SC
+Lee,526,0.6%,"3,126",27,SC
+Marion,523,0.6%,"1,706",<20,SC
+Jasper,509,0.6%,"1,693",<20,SC
+Bamberg,444,0.5%,"3,157",<20,SC
+Marlboro,443,0.5%,"1,696",<20,SC
+Saluda,419,0.5%,"2,047",<20,SC
+Hampton,391,0.4%,"2,034",<20,SC
+Barnwell,364,0.4%,"1,744",<20,SC
+Calhoun,335,0.4%,"2,302",<20,SC
+Union,335,0.4%,"1,226",<20,SC
+Abbeville,297,0.3%,"1,211",<20,SC
+Edgefield,281,0.3%,"1,031",<20,SC
+Allendale,193,0.2%,"2,221",<20,SC
+McCormick,105,0.1%,"1,110",<20,SC
+Minnehaha,4233,46.9%,"2,192",64,SD
+Pennington,845,9.4%,743,29,SD
+Beadle,587,6.5%,"3,181",<20,SD
+Lincoln,579,6.4%,947,<20,SD
+Brown,410,4.5%,"1,056",<20,SD
+Union,199,2.2%,"1,249",<20,SD
+Oglala Lakota,149,1.7%,"1,051",<20,SD
+Brookings,120,1.3%,342,<20,SD
+Codington,119,1.3%,425,0,SD
+Clay,118,1.3%,839,0,SD
+Buffalo,108,1.2%,"5,505",<20,SD
+Yankton,102,1.1%,447,<20,SD
+Charles Mix,100,1.1%,"1,076",0,SD
+Lyman,88,1%,"2,327",<20,SD
+Davison,88,1%,445,0,SD
+Hughes,84,0.9%,479,<20,SD
+Lake,84,0.9%,656,<20,SD
+Meade,76,0.8%,268,<20,SD
+Roberts,70,0.8%,673,<20,SD
+Todd,66,0.7%,649,<20,SD
+Dewey,61,0.7%,"1,035",0,SD
+Turner,44,0.5%,525,0,SD
+Brule,40,0.4%,755,0,SD
+Jerauld,40,0.4%,"1,987",<20,SD
+Aurora,38,0.4%,"1,381",0,SD
+Lawrence,32,0.4%,124,0,SD
+Moody,30,0.3%,456,0,SD
+Corson,29,0.3%,710,0,SD
+Hutchinson,27,0.3%,370,0,SD
+Faulk,26,0.3%,"1,131",<20,SD
+Mellette,24,0.3%,"1,164",0,SD
+McCook,24,0.3%,430,<20,SD
+Custer,23,0.3%,256,0,SD
+Grant,23,0.3%,326,0,SD
+Day,21,0.2%,387,0,SD
+Hanson,21,0.2%,608,0,SD
+Spink,21,0.2%,329,0,SD
+Tripp,20,0.2%,368,0,SD
+Bon Homme,<20,Not Calculated,Not Calculated,0,SD
+Hamlin,<20,Not Calculated,Not Calculated,0,SD
+Jones,<20,Not Calculated,Not Calculated,0,SD
+Stanley,<20,Not Calculated,Not Calculated,0,SD
+Deuel,<20,Not Calculated,Not Calculated,0,SD
+Hand,<20,Not Calculated,Not Calculated,0,SD
+Kingsbury,<20,Not Calculated,Not Calculated,0,SD
+McPherson,<20,Not Calculated,Not Calculated,0,SD
+Miner,<20,Not Calculated,Not Calculated,0,SD
+Potter,<20,Not Calculated,Not Calculated,0,SD
+Sanborn,<20,Not Calculated,Not Calculated,0,SD
+Bennett,<20,Not Calculated,Not Calculated,0,SD
+Butte,<20,Not Calculated,Not Calculated,<20,SD
+Douglas,<20,Not Calculated,Not Calculated,0,SD
+Fall River,<20,Not Calculated,Not Calculated,0,SD
+Jackson,<20,Not Calculated,Not Calculated,<20,SD
+Hyde,<20,Not Calculated,Not Calculated,0,SD
+Ziebach,<20,Not Calculated,Not Calculated,0,SD
+Gregory,<20,Not Calculated,Not Calculated,0,SD
+Sully,<20,Not Calculated,Not Calculated,0,SD
+Clark,<20,Not Calculated,Not Calculated,0,SD
+Marshall,<20,Not Calculated,Not Calculated,0,SD
+Walworth,<20,Not Calculated,Not Calculated,0,SD
+Haakon,<20,Not Calculated,Not Calculated,0,SD
+Campbell,<20,Not Calculated,Not Calculated,0,SD
+Perkins,<20,Not Calculated,Not Calculated,0,SD
+Edmunds,<20,Not Calculated,Not Calculated,0,SD
+Harding,0,Not Calculated,Not Calculated,0,SD
+Shelby,21492,19.4%,"2,293",288,TN
+Davidson,19400,17.5%,"2,795",202,TN
+Rutherford,6072,5.5%,"1,827",53,TN
+Hamilton,5661,5.1%,"1,539",47,TN
+Knox,4032,3.6%,857,36,TN
+Williamson,3269,3%,"1,371",22,TN
+Sumner,3178,2.9%,"1,661",70,TN
+Wilson,2072,1.9%,"1,432",21,TN
+Montgomery,1734,1.6%,830,<20,TN
+Sevier,1713,1.5%,"1,744",<20,TN
+Bradley,1713,1.5%,"1,584",<20,TN
+Trousdale,1572,1.4%,"13,931",<20,TN
+Putnam,1544,1.4%,"1,924",<20,TN
+Robertson,1450,1.3%,"2,019",<20,TN
+Hamblen,1229,1.1%,"1,893",<20,TN
+Blount,1120,1%,842,<20,TN
+Tipton,1106,1%,"1,795",<20,TN
+Maury,1081,1%,"1,122",<20,TN
+Washington,1066,1%,824,<20,TN
+Madison,912,0.8%,931,<20,TN
+Bedford,871,0.8%,"1,752",<20,TN
+Macon,832,0.8%,"3,382",<20,TN
+Sullivan,806,0.7%,509,<20,TN
+Hardeman,801,0.7%,"3,198",<20,TN
+Lake,749,0.7%,"10,676",0,TN
+Bledsoe,672,0.6%,"4,461",<20,TN
+Loudon,653,0.6%,"1,208",<20,TN
+Fayette,620,0.6%,"1,507",<20,TN
+Anderson,607,0.5%,789,<20,TN
+Dickson,595,0.5%,"1,103",<20,TN
+Gibson,567,0.5%,"1,154",<20,TN
+Dyer,555,0.5%,"1,494",<20,TN
+Cheatham,548,0.5%,"1,348",<20,TN
+Rhea,502,0.5%,"1,514",<20,TN
+Jefferson,496,0.4%,910,<20,TN
+McMinn,489,0.4%,909,20,TN
+Lawrence,478,0.4%,"1,083",<20,TN
+Obion,435,0.4%,"1,447",<20,TN
+Henderson,431,0.4%,"1,533",0,TN
+Carter,427,0.4%,757,<20,TN
+Lauderdale,423,0.4%,"1,650",<20,TN
+Coffee,417,0.4%,738,<20,TN
+Warren,403,0.4%,976,<20,TN
+Hardin,401,0.4%,"1,563",<20,TN
+Cocke,400,0.4%,"1,111",<20,TN
+Cumberland,379,0.3%,626,<20,TN
+Haywood,374,0.3%,"2,161",<20,TN
+Greene,371,0.3%,537,<20,TN
+Monroe,366,0.3%,786,<20,TN
+Roane,364,0.3%,682,<20,TN
+Smith,363,0.3%,"1,801",<20,TN
+Hawkins,362,0.3%,637,<20,TN
+Giles,351,0.3%,"1,191",<20,TN
+McNairy,316,0.3%,"1,230",<20,TN
+DeKalb,305,0.3%,"1,489",<20,TN
+Franklin,286,0.3%,678,<20,TN
+Weakley,276,0.2%,828,<20,TN
+Marshall,265,0.2%,771,<20,TN
+Lincoln,254,0.2%,739,<20,TN
+Hickman,231,0.2%,917,0,TN
+Carroll,228,0.2%,821,<20,TN
+Crockett,226,0.2%,"1,588",<20,TN
+Claiborne,221,0.2%,692,0,TN
+Henry,216,0.2%,668,0,TN
+Wayne,216,0.2%,"1,296",<20,TN
+Campbell,213,0.2%,535,<20,TN
+Marion,205,0.2%,709,<20,TN
+White,194,0.2%,709,<20,TN
+Chester,193,0.2%,"1,116",<20,TN
+Johnson,172,0.2%,967,0,TN
+Grainger,169,0.2%,725,0,TN
+Polk,165,0.1%,980,<20,TN
+Decatur,161,0.1%,"1,380",<20,TN
+Unicoi,138,0.1%,772,0,TN
+Overton,134,0.1%,602,<20,TN
+Union,120,0.1%,601,0,TN
+Cannon,118,0.1%,804,0,TN
+Jackson,106,0.1%,899,<20,TN
+Humphreys,105,0.1%,565,<20,TN
+Scott,104,0.1%,471,0,TN
+Grundy,101,0.1%,752,<20,TN
+Meigs,98,0.1%,789,0,TN
+Benton,97,0.1%,600,<20,TN
+Sequatchie,94,0.1%,626,0,TN
+Morgan,82,0.1%,383,<20,TN
+Hancock,76,0.1%,"1,148",<20,TN
+Fentress,74,0.1%,400,0,TN
+Perry,74,0.1%,916,0,TN
+Stewart,70,0.1%,510,0,TN
+Clay,61,0.1%,801,0,TN
+Lewis,56,0.1%,456,<20,TN
+Houston,55,0.0 %,671,0,TN
+Moore,45,0.0 %,694,0,TN
+Van Buren,33,0.0 %,562,0,TN
+Pickett,22,0.0 %,436,<20,TN
+Harris,76642,17.1%,"1,626","1,318",TX
+Dallas,51108,11.4%,"1,939",650,TX
+Bexar,41138,9.2%,"2,053",622,TX
+Tarrant,29054,6.5%,"1,382",386,TX
+Travis,21214,4.7%,"1,665",236,TX
+Hidalgo,17353,3.9%,"1,998",457,TX
+El Paso,14914,3.3%,"1,777",251,TX
+Cameron,13516,3%,"3,194",368,TX
+Nueces,10067,2.2%,"2,779",102,TX
+Galveston,8825,2%,"2,579",103,TX
+Fort Bend,7191,1.6%,886,146,TX
+Denton,6938,1.5%,782,75,TX
+Brazoria,6732,1.5%,"1,799",73,TX
+Webb,6411,1.4%,"2,317",77,TX
+Collin,6403,1.4%,619,72,TX
+Montgomery,6196,1.4%,"1,020",73,TX
+Williamson,5715,1.3%,968,80,TX
+Lubbock,5593,1.2%,"1,801",65,TX
+Jefferson,5506,1.2%,"2,189",73,TX
+McLennan,4436,1%,"1,729",39,TX
+Hays,4297,1%,"1,867",33,TX
+Brazos,3922,0.9%,"1,711",42,TX
+Potter,3505,0.8%,"2,985",39,TX
+Bell,3496,0.8%,963,32,TX
+Victoria,3203,0.7%,"3,478",29,TX
+Walker,2840,0.6%,"3,892",38,TX
+Ellis,2472,0.6%,"1,337",34,TX
+Smith,2309,0.5%,992,<20,TX
+Anderson,2307,0.5%,"3,996",<20,TX
+Ector,2276,0.5%,"1,369",36,TX
+Midland,2179,0.5%,"1,232",26,TX
+Starr,1894,0.4%,"2,930",51,TX
+Maverick,1852,0.4%,"3,154",29,TX
+Kaufman,1816,0.4%,"1,334",22,TX
+Comal,1679,0.4%,"1,075",63,TX
+Angelina,1647,0.4%,"1,899",36,TX
+Tom Green,1625,0.4%,"1,363",20,TX
+Guadalupe,1597,0.4%,957,44,TX
+Randall,1586,0.4%,"1,152",<20,TX
+Johnson,1541,0.3%,876,25,TX
+Val Verde,1332,0.3%,"2,717",<20,TX
+Gregg,1313,0.3%,"1,059",21,TX
+Bastrop,1296,0.3%,"1,461",<20,TX
+Hale,1185,0.3%,"3,547",22,TX
+Titus,1170,0.3%,"3,573",<20,TX
+Taylor,1085,0.2%,786,<20,TX
+Caldwell,1071,0.2%,"2,453",23,TX
+Parker,1070,0.2%,749,<20,TX
+Hunt,1059,0.2%,"1,074",20,TX
+Nacogdoches,1035,0.2%,"1,587",36,TX
+Grayson,1025,0.2%,753,<20,TX
+Orange,1021,0.2%,"1,224",<20,TX
+Moore,1013,0.2%,"4,838",<20,TX
+Wichita,902,0.2%,682,<20,TX
+Chambers,894,0.2%,"2,039",<20,TX
+Liberty,851,0.2%,965,25,TX
+Grimes,849,0.2%,"2,940",20,TX
+Hardin,811,0.2%,"1,408",<20,TX
+San Patricio,797,0.2%,"1,194",<20,TX
+Cherokee,783,0.2%,"1,487",<20,TX
+Navarro,767,0.2%,"1,531",<20,TX
+Rockwall,720,0.2%,686,<20,TX
+Bowie,708,0.2%,759,31,TX
+Matagorda,681,0.2%,"1,858",23,TX
+Polk,659,0.1%,"1,283",<20,TX
+Madison,645,0.1%,"4,516",<20,TX
+Wharton,635,0.1%,"1,528",21,TX
+Jim Wells,630,0.1%,"1,556",<20,TX
+Bee,626,0.1%,"1,922",<20,TX
+Lamar,625,0.1%,"1,254",<20,TX
+Harrison,624,0.1%,938,22,TX
+Jones,622,0.1%,"3,097",0,TX
+Gonzales,617,0.1%,"2,961",<20,TX
+Coryell,614,0.1%,808,<20,TX
+Deaf Smith,597,0.1%,"3,219",<20,TX
+Medina,595,0.1%,"1,153",24,TX
+Willacy,594,0.1%,"2,781",20,TX
+Lavaca,593,0.1%,"2,942",<20,TX
+Henderson,577,0.1%,697,<20,TX
+Burnet,542,0.1%,"1,126",<20,TX
+DeWitt,531,0.1%,"2,634",<20,TX
+Washington,497,0.1%,"1,385",38,TX
+Uvalde,496,0.1%,"1,855",<20,TX
+Frio,475,0.1%,"2,339",<20,TX
+Erath,462,0.1%,"1,082",<20,TX
+Calhoun,453,0.1%,"2,128",<20,TX
+Hood,437,0.1%,709,<20,TX
+Scurry,433,0.1%,"2,592",<20,TX
+Wilson,414,0.1%,811,<20,TX
+Waller,408,0.1%,739,<20,TX
+Atascosa,405,0.1%,792,<20,TX
+Shelby,381,0.1%,"1,507",<20,TX
+Kleberg,361,0.1%,"1,177",<20,TX
+La Salle,357,0.1%,"4,747",<20,TX
+Brown,351,0.1%,927,<20,TX
+Kerr,348,0.1%,662,<20,TX
+Rusk,334,0.1%,614,<20,TX
+Van Zandt,332,0.1%,587,<20,TX
+Jackson,320,0.1%,"2,168",<20,TX
+Wise,311,0.1%,444,<20,TX
+Parmer,311,0.1%,"3,238",<20,TX
+Hill,308,0.1%,840,<20,TX
+Milam,306,0.1%,"1,233",<20,TX
+Fayette,300,0.1%,"1,184",<20,TX
+Karnes,300,0.1%,"1,923",<20,TX
+Jasper,291,0.1%,819,<20,TX
+Wood,291,0.1%,639,<20,TX
+Panola,270,0.1%,"1,164",<20,TX
+Andrews,267,0.1%,"1,427",<20,TX
+Houston,249,0.1%,"1,084",<20,TX
+Colorado,246,0.1%,"1,145",<20,TX
+Burleson,231,0.1%,"1,253",<20,TX
+Camp,218,0.0 %,"1,665",<20,TX
+Robertson,216,0.0 %,"1,265",<20,TX
+Fannin,214,0.0 %,603,<20,TX
+Austin,213,0.0 %,709,<20,TX
+Pecos,209,0.0 %,"1,321",<20,TX
+Refugio,209,0.0 %,"3,008",0,TX
+Live Oak,207,0.0 %,"1,696",<20,TX
+Lamb,203,0.0 %,"1,574",<20,TX
+Cooke,200,0.0 %,485,<20,TX
+Limestone,199,0.0 %,849,<20,TX
+Palo Pinto,194,0.0 %,665,<20,TX
+Upshur,193,0.0 %,462,<20,TX
+Brewster,184,0.0 %,"1,999",<20,TX
+Gray,183,0.0 %,836,<20,TX
+Hockley,181,0.0 %,786,<20,TX
+Dallam,179,0.0 %,"2,456",<20,TX
+Zavala,175,0.0 %,"1,478",<20,TX
+Gillespie,171,0.0 %,634,<20,TX
+Castro,170,0.0 %,"2,258",<20,TX
+Hopkins,169,0.0 %,456,<20,TX
+Aransas,158,0.0 %,672,<20,TX
+Bailey,158,0.0 %,"2,257",<20,TX
+Howard,157,0.0 %,428,<20,TX
+Zapata,157,0.0 %,"1,107",<20,TX
+San Augustine,155,0.0 %,"1,882",<20,TX
+Crockett,154,0.0 %,"4,446",<20,TX
+Cass,153,0.0 %,510,<20,TX
+Lee,153,0.0 %,888,<20,TX
+Duval,152,0.0 %,"1,362",<20,TX
+San Jacinto,148,0.0 %,513,<20,TX
+Kendall,145,0.0 %,306,<20,TX
+Trinity,143,0.0 %,976,<20,TX
+Freestone,139,0.0 %,705,0,TX
+Young,139,0.0 %,772,<20,TX
+Leon,138,0.0 %,793,<20,TX
+Dawson,137,0.0 %,"1,076",<20,TX
+Reeves,136,0.0 %,851,<20,TX
+Red River,134,0.0 %,"1,115",<20,TX
+Gaines,132,0.0 %,614,0,TX
+Nolan,131,0.0 %,890,<20,TX
+Bosque,128,0.0 %,685,<20,TX
+Marion,127,0.0 %,"1,289",<20,TX
+Dimmit,124,0.0 %,"1,225",<20,TX
+Terry,116,0.0 %,940,<20,TX
+Tyler,115,0.0 %,531,<20,TX
+Hutchinson,114,0.0 %,544,<20,TX
+Falls,110,0.0 %,636,<20,TX
+Comanche,107,0.0 %,785,<20,TX
+Runnels,107,0.0 %,"1,042",<20,TX
+Blanco,98,0.0 %,821,<20,TX
+Morris,97,0.0 %,783,<20,TX
+Garza,97,0.0 %,"1,557",<20,TX
+Brooks,87,0.0 %,"1,227",<20,TX
+Llano,86,0.0 %,395,<20,TX
+Newton,86,0.0 %,633,<20,TX
+Yoakum,85,0.0 %,976,<20,TX
+Franklin,84,0.0 %,783,<20,TX
+Lampasas,84,0.0 %,392,<20,TX
+Ochiltree,84,0.0 %,854,<20,TX
+Ward,83,0.0 %,692,<20,TX
+Bandera,83,0.0 %,359,<20,TX
+Floyd,83,0.0 %,"1,453",<20,TX
+Hartley,82,0.0 %,"1,471",0,TX
+Goliad,77,0.0 %,"1,005",<20,TX
+Real,76,0.0 %,"2,202",0,TX
+Crane,75,0.0 %,"1,563",<20,TX
+Swisher,75,0.0 %,"1,014",<20,TX
+Winkler,68,0.0 %,849,<20,TX
+Lynn,65,0.0 %,"1,092",<20,TX
+Hansford,59,0.0 %,"1,093",<20,TX
+Somervell,58,0.0 %,635,0,TX
+Reagan,58,0.0 %,"1,507",<20,TX
+Sutton,58,0.0 %,"1,536",<20,TX
+Montague,57,0.0 %,288,<20,TX
+Hamilton,55,0.0 %,650,<20,TX
+Jim Hogg,53,0.0 %,"1,019",<20,TX
+Crosby,52,0.0 %,906,<20,TX
+Mitchell,52,0.0 %,609,0,TX
+Eastland,51,0.0 %,278,<20,TX
+Wilbarger,50,0.0 %,392,<20,TX
+Knox,46,0.0 %,"1,255",0,TX
+Rains,45,0.0 %,360,<20,TX
+Martin,45,0.0 %,780,<20,TX
+Sabine,44,0.0 %,417,<20,TX
+Presidio,44,0.0 %,656,0,TX
+Donley,43,0.0 %,"1,312",0,TX
+Hemphill,41,0.0 %,"1,074",0,TX
+McCulloch,41,0.0 %,514,<20,TX
+Callahan,41,0.0 %,294,<20,TX
+Jack,40,0.0 %,448,0,TX
+Mason,40,0.0 %,936,0,TX
+Coke,39,0.0 %,"1,151",<20,TX
+Sherman,37,0.0 %,"1,224",0,TX
+Haskell,35,0.0 %,619,0,TX
+Schleicher,35,0.0 %,"1,253",<20,TX
+Childress,34,0.0 %,465,0,TX
+Clay,34,0.0 %,325,<20,TX
+Wheeler,31,0.0 %,613,0,TX
+Stephens,29,0.0 %,310,<20,TX
+Concho,26,0.0 %,954,0,TX
+Fisher,24,0.0 %,627,<20,TX
+Edwards,24,0.0 %,"1,242",0,TX
+Hudspeth,22,0.0 %,450,<20,TX
+San Saba,22,0.0 %,363,0,TX
+Cochran,21,0.0 %,736,0,TX
+Archer,20,0.0 %,234,0,TX
+Coleman,<20,Not Calculated,Not Calculated,0,TX
+Kenedy,<20,Not Calculated,Not Calculated,<20,TX
+Mills,<20,Not Calculated,Not Calculated,0,TX
+Terrell,<20,Not Calculated,Not Calculated,0,TX
+Collingsworth,<20,Not Calculated,Not Calculated,0,TX
+Delta,<20,Not Calculated,Not Calculated,0,TX
+Kent,<20,Not Calculated,Not Calculated,0,TX
+McMullen,<20,Not Calculated,Not Calculated,0,TX
+Glasscock,<20,Not Calculated,Not Calculated,0,TX
+Baylor,<20,Not Calculated,Not Calculated,0,TX
+Menard,<20,Not Calculated,Not Calculated,0,TX
+Briscoe,<20,Not Calculated,Not Calculated,<20,TX
+Foard,<20,Not Calculated,Not Calculated,0,TX
+Motley,<20,Not Calculated,Not Calculated,0,TX
+Roberts,<20,Not Calculated,Not Calculated,0,TX
+Culberson,<20,Not Calculated,Not Calculated,<20,TX
+Hardeman,<20,Not Calculated,Not Calculated,0,TX
+Kimble,<20,Not Calculated,Not Calculated,0,TX
+Kinney,<20,Not Calculated,Not Calculated,0,TX
+Lipscomb,<20,Not Calculated,Not Calculated,0,TX
+Cottle,<20,Not Calculated,Not Calculated,<20,TX
+Hall,<20,Not Calculated,Not Calculated,<20,TX
+Jeff Davis,<20,Not Calculated,Not Calculated,0,TX
+Upton,<20,Not Calculated,Not Calculated,<20,TX
+Oldham,<20,Not Calculated,Not Calculated,<20,TX
+Throckmorton,<20,Not Calculated,Not Calculated,0,TX
+Stonewall,<20,Not Calculated,Not Calculated,0,TX
+Dickens,<20,Not Calculated,Not Calculated,<20,TX
+Shackelford,<20,Not Calculated,Not Calculated,0,TX
+Carson,<20,Not Calculated,Not Calculated,0,TX
+Irion,<20,Not Calculated,Not Calculated,0,TX
+Armstrong,<20,Not Calculated,Not Calculated,0,TX
+Borden,0,Not Calculated,Not Calculated,0,TX
+Loving,0,Not Calculated,Not Calculated,0,TX
+Sterling,0,Not Calculated,Not Calculated,0,TX
+King,0,Not Calculated,Not Calculated,0,TX
+Salt Lake,19556,47.1%,"1,685",178,UT
+Utah,8047,19.4%,"1,265",35,UT
+Davis,3026,7.3%,851,<20,UT
+Weber,2596,6.2%,998,25,UT
+Washington,2355,5.7%,"1,326",<20,UT
+Cache,1833,4.4%,"1,429",<20,UT
+Summit,697,1.7%,"1,654",<20,UT
+San Juan,628,1.5%,"4,102",24,UT
+Tooele,547,1.3%,757,0,UT
+Wasatch,533,1.3%,"1,563",<20,UT
+Iron,528,1.3%,963,<20,UT
+Box Elder,332,0.8%,592,<20,UT
+Millard,118,0.3%,895,0,UT
+Sanpete,112,0.3%,362,0,UT
+Duchesne,80,0.2%,401,0,UT
+Sevier,79,0.2%,365,<20,UT
+Uintah,77,0.2%,215,0,UT
+Juab,65,0.2%,541,<20,UT
+Kane,56,0.1%,710,0,UT
+Garfield,47,0.1%,931,<20,UT
+Morgan,45,0.1%,371,0,UT
+Grand,44,0.1%,451,0,UT
+Carbon,34,0.1%,166,0,UT
+Beaver,27,0.1%,402,0,UT
+Rich,<20,Not Calculated,Not Calculated,0,UT
+Piute,<20,Not Calculated,Not Calculated,0,UT
+Wayne,<20,Not Calculated,Not Calculated,0,UT
+Emery,<20,Not Calculated,Not Calculated,0,UT
+Daggett,0,Not Calculated,Not Calculated,0,UT
+Chittenden,721,50.5%,440,39,VT
+Franklin,117,8.2%,237,<20,VT
+Windham,101,7.1%,239,<20,VT
+Rutland,89,6.2%,153,<20,VT
+Bennington,84,5.9%,237,<20,VT
+Addison,72,5%,196,<20,VT
+Windsor,71,5%,129,<20,VT
+Washington,49,3.4%,84,<20,VT
+Lamoille,42,2.9%,166,<20,VT
+Caledonia,26,1.8%,87,0,VT
+Orange,<20,Not Calculated,Not Calculated,0,VT
+Essex,<20,Not Calculated,Not Calculated,0,VT
+Orleans,<20,Not Calculated,Not Calculated,0,VT
+Grand Isle,<20,Not Calculated,Not Calculated,0,VT
+Fairfax,15907,17.1%,"1,386",523,VA
+Prince William,8988,9.7%,"1,911",173,VA
+Loudoun,5059,5.4%,"1,223",112,VA
+Virginia Beach,4427,4.8%,984,47,VA
+Chesterfield,4097,4.4%,"1,161",75,VA
+Henrico,3654,3.9%,"1,105",182,VA
+Norfolk,3345,3.6%,"1,378",26,VA
+Richmond City,2992,3.2%,"1,298",39,VA
+Arlington,2945,3.2%,"1,243",136,VA
+Alexandria,2844,3.1%,"1,784",59,VA
+Chesapeake,2617,2.8%,"1,069",29,VA
+Newport News,1671,1.8%,932,<20,VA
+Manassas,1612,1.7%,"3,924",20,VA
+Portsmouth,1540,1.7%,"1,631",24,VA
+Spotsylvania,1357,1.5%,996,34,VA
+Stafford,1283,1.4%,839,<20,VA
+Suffolk,1112,1.2%,"1,207",49,VA
+Accomack,1080,1.2%,"3,342",<20,VA
+Hampton,1070,1.1%,795,<20,VA
+Harrisonburg,1055,1.1%,"1,990",29,VA
+Culpeper,957,1%,"1,819",<20,VA
+Roanoke City,909,1%,917,<20,VA
+Rockingham,908,1%,"1,108",<20,VA
+Albemarle,775,0.8%,709,<20,VA
+Shenandoah,681,0.7%,"1,561",42,VA
+Frederick,670,0.7%,750,<20,VA
+Hanover,597,0.6%,554,31,VA
+Buckingham,596,0.6%,"3,476",<20,VA
+Fauquier,580,0.6%,814,<20,VA
+James City,562,0.6%,734,<20,VA
+Henry,511,0.5%,"1,011",<20,VA
+Manassas Park,500,0.5%,"2,861",<20,VA
+Charlottesville,495,0.5%,"1,047",<20,VA
+Petersburg,473,0.5%,"1,509",<20,VA
+Lynchburg,469,0.5%,571,<20,VA
+Roanoke,456,0.5%,484,<20,VA
+Greensville,437,0.5%,"3,855",<20,VA
+Winchester,392,0.4%,"1,396",<20,VA
+Pittsylvania,375,0.4%,621,<20,VA
+Fredericksburg,368,0.4%,"1,267",<20,VA
+Prince Edward,356,0.4%,"1,561",<20,VA
+Isle of Wight,353,0.4%,951,<20,VA
+Warren,348,0.4%,866,<20,VA
+Danville,344,0.4%,859,<20,VA
+Prince George,341,0.4%,889,<20,VA
+Galax,338,0.4%,"5,325",22,VA
+Page,333,0.4%,"1,393",24,VA
+York,318,0.3%,466,<20,VA
+Richmond,317,0.3%,"3,513",<20,VA
+Carroll,314,0.3%,"1,054",<20,VA
+Mecklenburg,309,0.3%,"1,010",32,VA
+Bedford,307,0.3%,389,<20,VA
+Northampton,294,0.3%,"2,511",28,VA
+Montgomery,289,0.3%,293,<20,VA
+Sussex,279,0.3%,"2,500",<20,VA
+Hopewell,258,0.3%,"1,145",<20,VA
+Augusta,253,0.3%,335,<20,VA
+Southampton,240,0.3%,"1,361",<20,VA
+Orange,213,0.2%,575,<20,VA
+Brunswick,212,0.2%,"1,306",<20,VA
+Dinwiddie,209,0.2%,732,<20,VA
+Westmoreland,195,0.2%,"1,082",<20,VA
+Botetourt,192,0.2%,575,<20,VA
+Caroline,191,0.2%,622,<20,VA
+Colonial Heights,185,0.2%,"1,065",21,VA
+Washington,181,0.2%,337,<20,VA
+Nottoway,176,0.2%,"1,155",<20,VA
+Fluvanna,175,0.2%,642,<20,VA
+Martinsville,171,0.2%,"1,362",<20,VA
+Louisa,167,0.2%,444,<20,VA
+Waynesboro,167,0.2%,738,<20,VA
+Emporia,167,0.2%,"3,124",<20,VA
+Franklin,160,0.2%,286,<20,VA
+Campbell,157,0.2%,286,<20,VA
+Goochland,151,0.2%,636,<20,VA
+Franklin City,148,0.2%,"1,858",<20,VA
+Greene,147,0.2%,742,<20,VA
+Gloucester,145,0.2%,388,<20,VA
+Staunton,143,0.2%,574,0,VA
+Halifax,141,0.2%,416,<20,VA
+Salem,139,0.1%,549,<20,VA
+Grayson,134,0.1%,862,<20,VA
+Powhatan,128,0.1%,432,<20,VA
+King George,124,0.1%,462,<20,VA
+Smyth,123,0.1%,409,<20,VA
+New Kent,119,0.1%,515,<20,VA
+Amherst,118,0.1%,373,0,VA
+Patrick,115,0.1%,653,<20,VA
+Williamsburg,114,0.1%,762,<20,VA
+Wythe,108,0.1%,377,<20,VA
+Lee,100,0.1%,427,<20,VA
+Tazewell,98,0.1%,241,0,VA
+Wise,94,0.1%,251,<20,VA
+Essex,83,0.1%,758,<20,VA
+Fairfax City,82,0.1%,341,<20,VA
+King William,77,0.1%,449,<20,VA
+Pulaski,75,0.1%,220,<20,VA
+Amelia,73,0.1%,555,<20,VA
+Buchanan,72,0.1%,343,0,VA
+Appomattox,71,0.1%,446,0,VA
+Russell,70,0.1%,263,<20,VA
+Clarke,69,0.1%,472,0,VA
+Cumberland,68,0.1%,685,0,VA
+Rockbridge,67,0.1%,297,0,VA
+Northumberland,66,0.1%,546,<20,VA
+Bristol,65,0.1%,388,0,VA
+Madison,62,0.1%,468,<20,VA
+Scott,60,0.1%,278,<20,VA
+Falls Church,59,0.1%,404,<20,VA
+Alleghany,56,0.1%,377,<20,VA
+Lunenburg,55,0.1%,451,<20,VA
+Charles City,50,0.1%,718,<20,VA
+Charlotte,49,0.1%,412,0,VA
+Buena Vista,48,0.1%,741,0,VA
+Rappahannock,40,0.0 %,543,<20,VA
+Poquoson,39,0.0 %,318,0,VA
+Floyd,39,0.0 %,248,<20,VA
+Surry,38,0.0 %,592,<20,VA
+King and Queen,36,0.0 %,512,<20,VA
+Nelson,34,0.0 %,228,0,VA
+Lexington,33,0.0 %,443,0,VA
+Lancaster,31,0.0 %,292,0,VA
+Dickenson,29,0.0 %,203,0,VA
+Middlesex,28,0.0 %,265,<20,VA
+Radford,26,0.0 %,142,0,VA
+Giles,23,0.0 %,138,0,VA
+Bath,<20,Not Calculated,Not Calculated,0,VA
+Bland,<20,Not Calculated,Not Calculated,0,VA
+Norton,<20,Not Calculated,Not Calculated,0,VA
+Craig,<20,Not Calculated,Not Calculated,0,VA
+Mathews,<20,Not Calculated,Not Calculated,0,VA
+Covington,<20,Not Calculated,Not Calculated,0,VA
+Highland,<20,Not Calculated,Not Calculated,0,VA
+King,15603,26.6%,693,658,WA
+Yakima,10047,17.1%,"4,005",205,WA
+Pierce,5216,8.9%,576,129,WA
+Snohomish,5159,8.8%,628,190,WA
+Spokane,3909,6.7%,748,61,WA
+Benton,3514,6%,"1,719",110,WA
+Franklin,3325,5.7%,"3,492",47,WA
+Clark,1620,2.8%,332,42,WA
+Grant,1294,2.2%,"1,324",<20,WA
+Chelan,1177,2%,"1,525",<20,WA
+Whatcom,936,1.6%,408,38,WA
+Douglas,830,1.4%,"1,911",<20,WA
+Skagit,826,1.4%,639,21,WA
+Okanogan,771,1.3%,"1,825",<20,WA
+Kitsap,658,1.1%,242,<20,WA
+Thurston,640,1.1%,220,<20,WA
+Walla Walla,454,0.8%,747,<20,WA
+Cowlitz,446,0.8%,403,<20,WA
+Adams,400,0.7%,"2,002",<20,WA
+Kittitas,348,0.6%,726,<20,WA
+Island,239,0.4%,281,<20,WA
+Lewis,189,0.3%,234,<20,WA
+Mason,163,0.3%,244,<20,WA
+Klickitat,106,0.2%,473,<20,WA
+Grays Harbor,99,0.2%,132,<20,WA
+Clallam,94,0.2%,122,0,WA
+Stevens,92,0.2%,201,<20,WA
+Whitman,87,0.1%,174,0,WA
+Skamania,53,0.1%,439,<20,WA
+Jefferson,53,0.1%,164,0,WA
+Pacific,40,0.1%,178,<20,WA
+Pend Oreille,36,0.1%,262,0,WA
+San Juan,28,0.0 %,159,0,WA
+Asotin,24,0.0 %,106,<20,WA
+Lincoln,<20,Not Calculated,Not Calculated,0,WA
+Ferry,<20,Not Calculated,Not Calculated,0,WA
+Columbia,<20,Not Calculated,Not Calculated,<20,WA
+Garfield,<20,Not Calculated,Not Calculated,0,WA
+Wahkiakum,<20,Not Calculated,Not Calculated,0,WA
+Monongalia,925,13.3%,876,<20,WV
+Kanawha,851,12.2%,478,21,WV
+Berkeley,657,9.4%,551,<20,WV
+Cabell,338,4.8%,368,<20,WV
+Jefferson,292,4.2%,511,<20,WV
+Ohio,255,3.7%,616,<20,WV
+Wood,236,3.4%,283,<20,WV
+Randolph,205,2.9%,714,0,WV
+Harrison,198,2.8%,294,<20,WV
+Raleigh,196,2.8%,267,<20,WV
+Wayne,185,2.7%,470,<20,WV
+Marion,179,2.6%,319,<20,WV
+Putnam,172,2.5%,305,0,WV
+Mercer,165,2.4%,281,<20,WV
+Jackson,157,2.3%,549,<20,WV
+Logan,154,2.2%,481,<20,WV
+Mingo,134,1.9%,572,<20,WV
+Fayette,131,1.9%,309,<20,WV
+Marshall,127,1.8%,416,0,WV
+Preston,124,1.8%,371,<20,WV
+Mineral,113,1.6%,421,<20,WV
+Hancock,102,1.5%,354,0,WV
+Greenbrier,87,1.2%,251,<20,WV
+Grant,81,1.2%,700,0,WV
+Boone,79,1.1%,368,0,WV
+Hampshire,74,1.1%,319,<20,WV
+Lincoln,68,1%,333,0,WV
+Brooke,61,0.9%,278,<20,WV
+Hardy,54,0.8%,392,0,WV
+Taylor,53,0.8%,317,0,WV
+Mason,49,0.7%,185,<20,WV
+McDowell,44,0.6%,250,0,WV
+Pocahontas,41,0.6%,497,0,WV
+Wetzel,40,0.6%,266,0,WV
+Pendleton,38,0.5%,545,<20,WV
+Upshur,38,0.5%,157,0,WV
+Nicholas,32,0.5%,131,<20,WV
+Barbour,29,0.4%,176,<20,WV
+Lewis,27,0.4%,170,<20,WV
+Morgan,26,0.4%,145,0,WV
+Wyoming,23,0.3%,113,<20,WV
+Doddridge,<20,Not Calculated,Not Calculated,0,WV
+Braxton,<20,Not Calculated,Not Calculated,0,WV
+Tucker,<20,Not Calculated,Not Calculated,0,WV
+Tyler,<20,Not Calculated,Not Calculated,0,WV
+Clay,<20,Not Calculated,Not Calculated,<20,WV
+Pleasants,<20,Not Calculated,Not Calculated,0,WV
+Webster,<20,Not Calculated,Not Calculated,0,WV
+Summers,<20,Not Calculated,Not Calculated,0,WV
+Roane,<20,Not Calculated,Not Calculated,<20,WV
+Wirt,<20,Not Calculated,Not Calculated,0,WV
+Gilmer,<20,Not Calculated,Not Calculated,0,WV
+Ritchie,<20,Not Calculated,Not Calculated,0,WV
+Monroe,<20,Not Calculated,Not Calculated,0,WV
+Calhoun,<20,Not Calculated,Not Calculated,0,WV
+Milwaukee,19855,35.9%,"2,099",446,WI
+Dane,4230,7.6%,774,37,WI
+Brown,4011,7.2%,"1,516",51,WI
+Waukesha,3693,6.7%,914,55,WI
+Racine,3249,5.9%,"1,655",76,WI
+Kenosha,2499,4.5%,"1,474",53,WI
+Rock,1371,2.5%,839,26,WI
+Walworth,1258,2.3%,"1,211",21,WI
+Outagamie,1113,2%,592,<20,WI
+Winnebago,1063,1.9%,618,<20,WI
+Washington,880,1.6%,647,22,WI
+La Crosse,825,1.5%,699,<20,WI
+Dodge,705,1.3%,803,<20,WI
+Sheboygan,622,1.1%,539,<20,WI
+Marathon,580,1%,427,<20,WI
+Fond du Lac,571,1%,552,<20,WI
+Ozaukee,568,1%,637,<20,WI
+Jefferson,564,1%,665,<20,WI
+Eau Claire,507,0.9%,484,<20,WI
+St. Croix,452,0.8%,498,<20,WI
+Sauk,392,0.7%,608,<20,WI
+Waupaca,379,0.7%,743,<20,WI
+Portage,355,0.6%,502,0,WI
+Marinette,331,0.6%,820,<20,WI
+Grant,329,0.6%,640,<20,WI
+Trempealeau,307,0.6%,"1,035",<20,WI
+Manitowoc,306,0.6%,387,<20,WI
+Barron,259,0.5%,572,<20,WI
+Calumet,258,0.5%,515,<20,WI
+Wood,241,0.4%,330,<20,WI
+Columbia,227,0.4%,395,<20,WI
+Monroe,226,0.4%,489,<20,WI
+Chippewa,210,0.4%,325,0,WI
+Oconto,183,0.3%,482,0,WI
+Clark,177,0.3%,509,<20,WI
+Pierce,174,0.3%,407,0,WI
+Shawano,161,0.3%,394,0,WI
+Douglas,135,0.2%,313,0,WI
+Green,131,0.2%,354,<20,WI
+Juneau,129,0.2%,483,<20,WI
+Polk,120,0.2%,274,<20,WI
+Lafayette,110,0.2%,660,0,WI
+Kewaunee,110,0.2%,538,<20,WI
+Waushara,107,0.2%,438,0,WI
+Dunn,105,0.2%,231,0,WI
+Oneida,89,0.2%,250,0,WI
+Door,85,0.2%,307,<20,WI
+Adams,73,0.1%,361,<20,WI
+Iron,72,0.1%,"1,266",<20,WI
+Marquette,71,0.1%,456,<20,WI
+Iowa,65,0.1%,275,0,WI
+Lincoln,64,0.1%,232,0,WI
+Crawford,62,0.1%,384,0,WI
+Forest,59,0.1%,655,<20,WI
+Vernon,58,0.1%,188,0,WI
+Taylor,54,0.1%,265,0,WI
+Green Lake,52,0.1%,275,0,WI
+Langlade,49,0.1%,255,<20,WI
+Jackson,49,0.1%,237,<20,WI
+Buffalo,41,0.1%,315,<20,WI
+Sawyer,40,0.1%,242,0,WI
+Pepin,40,0.1%,549,0,WI
+Vilas,38,0.1%,171,0,WI
+Washburn,35,0.1%,223,0,WI
+Richland,32,0.1%,185,<20,WI
+Price,21,0.0 %,157,0,WI
+Bayfield,20,0.0 %,133,<20,WI
+Ashland,20,0.0 %,129,0,WI
+Menominee,20,0.0 %,439,0,WI
+Rusk,<20,Not Calculated,Not Calculated,<20,WI
+Florence,<20,Not Calculated,Not Calculated,0,WI
+Burnett,<20,Not Calculated,Not Calculated,<20,WI
+Fremont,488,17.1%,"1,243",<20,WY
+Laramie,479,16.8%,481,<20,WY
+Teton,358,12.6%,"1,526",<20,WY
+Uinta,265,9.3%,"1,310",0,WY
+Sweetwater,250,8.8%,590,<20,WY
+Natrona,217,7.6%,272,<20,WY
+Campbell,118,4.1%,255,<20,WY
+Park,117,4.1%,401,0,WY
+Lincoln,92,3.2%,464,0,WY
+Albany,88,3.1%,226,0,WY
+Carbon,82,2.9%,554,<20,WY
+Sheridan,61,2.1%,200,0,WY
+Washakie,49,1.7%,628,<20,WY
+Sublette,37,1.3%,376,0,WY
+Big Horn,36,1.3%,305,0,WY
+Converse,31,1.1%,224,0,WY
+Johnson,22,0.8%,261,<20,WY
+Weston,<20,Not Calculated,Not Calculated,0,WY
+Goshen,<20,Not Calculated,Not Calculated,0,WY
+Hot Springs,<20,Not Calculated,Not Calculated,0,WY
+Crook,<20,Not Calculated,Not Calculated,0,WY
+Niobrara,<20,Not Calculated,Not Calculated,0,WY
+Platte,<20,Not Calculated,Not Calculated,0,WY
+Hillsborough,3775,56.7%,905,279,NH
+Rockingham,1642,24.7%,530,95,NH
+Merrimack,458,6.9%,303,21,NH
+Strafford,335,5%,256,<20,NH
+Belknap,109,1.6%,178,<20,NH
+Grafton,103,1.5%,115,<20,NH
+Cheshire,92,1.4%,121,<20,NH
+Carroll,89,1.3%,182,<20,NH
+Sullivan,40,0.6%,93,<20,NH
+Coos,<20,Not Calculated,Not Calculated,0,NH
+Bergen,20552,11.3%,"2,205","2,041",NJ
+Essex,19558,10.7%,"2,448","2,104",NJ
+Hudson,19528,10.7%,"2,904","1,503",NJ
+Middlesex,17735,9.7%,"2,150","1,403",NJ
+Passaic,17507,9.6%,"3,489","1,242",NJ
+Union,16590,9.1%,"2,982","1,348",NJ
+Ocean,10469,5.7%,"1,724","1,016",NJ
+Monmouth,10137,5.6%,"1,638",858,NJ
+Camden,8375,4.6%,"1,654",575,NJ
+Mercer,8051,4.4%,"2,191",619,NJ
+Morris,7167,3.9%,"1,457",830,NJ
+Burlington,5846,3.2%,"1,313",470,NJ
+Somerset,5195,2.8%,"1,579",555,NJ
+Atlantic,3408,1.9%,"1,293",252,NJ
+Cumberland,3253,1.8%,"2,176",157,NJ
+Gloucester,3106,1.7%,"1,065",209,NJ
+Warren,1330,0.7%,"1,263",171,NJ
+Sussex,1307,0.7%,930,195,NJ
+Hunterdon,1138,0.6%,915,126,NJ
+Salem,877,0.5%,"1,406",85,NJ
+Cape May,813,0.4%,883,87,NJ
+Franklin,17254,18.4%,"1,310",514,OH
+Cuyahoga,12753,13.6%,"1,033",477,OH
+Hamilton,9160,9.7%,"1,121",248,OH
+Lucas,4944,5.3%,"1,154",318,OH
+Montgomery,4057,4.3%,763,78,OH
+Summit,3294,3.5%,609,217,OH
+Marion,2884,3.1%,"4,431",44,OH
+Butler,2714,2.9%,708,59,OH
+Mahoning,2411,2.6%,"1,054",253,OH
+Pickaway,2357,2.5%,"4,032",42,OH
+Stark,1690,1.8%,456,132,OH
+Warren,1634,1.7%,696,35,OH
+Lorain,1634,1.7%,527,76,OH
+Columbiana,1582,1.7%,"1,553",60,OH
+Trumbull,1433,1.5%,724,103,OH
+Fairfield,1254,1.3%,796,25,OH
+Delaware,1206,1.3%,577,<20,OH
+Licking,1125,1.2%,636,43,OH
+Clark,1086,1.2%,810,<20,OH
+Lake,1043,1.1%,453,36,OH
+Wood,924,1%,706,58,OH
+Clermont,855,0.9%,414,<20,OH
+Medina,835,0.9%,465,33,OH
+Miami,769,0.8%,719,37,OH
+Tuscarawas,747,0.8%,812,<20,OH
+Portage,717,0.8%,441,60,OH
+Allen,654,0.7%,639,42,OH
+Greene,626,0.7%,371,<20,OH
+Belmont,589,0.6%,879,26,OH
+Richland,540,0.6%,446,<20,OH
+Ashtabula,539,0.6%,554,45,OH
+Mercer,535,0.6%,"1,299",<20,OH
+Geauga,531,0.6%,567,43,OH
+Erie,524,0.6%,706,27,OH
+Wayne,499,0.5%,431,58,OH
+Ross,401,0.4%,523,<20,OH
+Huron,376,0.4%,645,<20,OH
+Ottawa,359,0.4%,886,25,OH
+Athens,345,0.4%,528,<20,OH
+Madison,333,0.4%,744,<20,OH
+Sandusky,332,0.4%,567,<20,OH
+Holmes,322,0.3%,732,<20,OH
+Darke,321,0.3%,628,27,OH
+Hancock,320,0.3%,422,<20,OH
+Auglaize,222,0.2%,486,<20,OH
+Lawrence,220,0.2%,370,0,OH
+Union,216,0.2%,366,<20,OH
+Jefferson,206,0.2%,315,<20,OH
+Washington,197,0.2%,329,22,OH
+Putnam,192,0.2%,567,<20,OH
+Scioto,188,0.2%,250,<20,OH
+Coshocton,186,0.2%,508,<20,OH
+Muskingum,181,0.2%,210,<20,OH
+Knox,169,0.2%,271,<20,OH
+Crawford,168,0.2%,405,<20,OH
+Preble,166,0.2%,406,<20,OH
+Seneca,161,0.2%,292,<20,OH
+Shelby,160,0.2%,329,<20,OH
+Morrow,158,0.2%,447,<20,OH
+Hardin,150,0.2%,478,<20,OH
+Clinton,148,0.2%,353,<20,OH
+Fulton,140,0.1%,332,<20,OH
+Champaign,138,0.1%,355,<20,OH
+Ashland,133,0.1%,249,<20,OH
+Highland,132,0.1%,306,<20,OH
+Defiance,129,0.1%,339,<20,OH
+Williams,124,0.1%,338,<20,OH
+Logan,123,0.1%,269,<20,OH
+Wyandot,120,0.1%,551,<20,OH
+Brown,112,0.1%,258,<20,OH
+Hocking,111,0.1%,393,<20,OH
+Guernsey,111,0.1%,286,<20,OH
+Carroll,108,0.1%,401,<20,OH
+Henry,106,0.1%,393,<20,OH
+Perry,106,0.1%,293,<20,OH
+Fayette,97,0.1%,340,0,OH
+Monroe,91,0.1%,666,<20,OH
+Van Wert,69,0.1%,244,<20,OH
+Jackson,67,0.1%,207,0,OH
+Pike,66,0.1%,238,0,OH
+Paulding,61,0.1%,327,0,OH
+Gallia,58,0.1%,194,<20,OH
+Adams,53,0.1%,191,<20,OH
+Vinton,30,0.0 %,229,<20,OH
+Meigs,25,0.0 %,109,0,OH
+Harrison,20,0.0 %,133,<20,OH
+Morgan,20,0.0 %,138,0,OH
+Noble,<20,Not Calculated,Not Calculated,0,OH
