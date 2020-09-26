@@ -2,4 +2,4 @@
 
 
 
-[🔗Web Application Link](https://university-reopenning.herokuapp.com])
+App Link: https://university-reopenning.herokuapp.com
