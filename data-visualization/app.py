@@ -1,27 +1,31 @@
 import pandas as pd
-import plotly.express as px
+import plotly.express as px 
 import plotly.graph_objects as go
 
-import dash
+import dash 
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MINTY])
-server = app.server
-# preparation
+server = server = app.server
+
+#dataset download link 
 link = 'https://raw.githubusercontent.com/yuxuan0702/Summer-Research-Project-/master/data-visualization/final_0921_edited.csv'
+
+# import dataset 
 df1 = pd.read_csv('final_0921_edited.csv')
 df1.drop(columns=['Unnamed: 0', 'index'], inplace=True)
 print(df1.head(3))
 
+#import dataset 
 df2 = pd.read_csv('bar_data.csv')
 print(df2.head(3))
 
 
 # introduction card 
-first_card = [
+first_card = dbc.Card([
     dbc.CardHeader('Basic Information About Research'),
     dbc.CardBody(
         [
@@ -29,8 +33,10 @@ first_card = [
             html.P("From research, we think they gonna be five main factors related to the decisions:"),
             html.P("university information, covid situtaion,economic situation and politic situation"),
             html.P("We trying to keep all our variables in county level to keep all the data indicates in the same level"),
-        ])]
-second_card = [
+            html.P("So we can analysis without any considers to location level")
+        ])])
+
+second_card = dbc.Card([
     dbc.CardHeader('Data Source'),
     dbc.CardBody(
         [
@@ -40,7 +46,7 @@ second_card = [
             html.P("- Economic data is from burearu "),
             html.P("- Politic data is from ")
         ]
-    )]
+    )],style={'height':'100%'})
 # boxplot
 available_indicators = ['2018 Fall Enrollment',
                         'Known_Cases_in_County_per_100k_Residents',
@@ -71,20 +77,36 @@ pie = go.Figure(data=[go.Pie(labels=labels, values=values, hole=.3)])
 colors = ['#4C78A8', '#F58518', '#E45756', '#72B7B2', '#54A24B']
 pie.update_traces(hole=.4,
                   hoverinfo="label+percent",
-                  marker=dict(colors=colors))                 
-pie.update_layout(title_text = 'Pie Chart of Univerisity Decision',
-                  margin=dict(t=0, b=0, l=10, r=10))
-pie_graph = dbc.Card(dcc.Graph(id='pie',figure=pie,responsive = True), outline=True,color = "Primary")
+                  marker=dict(colors=colors))
+pie.update_layout(legend=dict(
+    orientation="h",
+    yanchor="top",
+    xanchor="center",
+    x = 0.5,
+    y = 1.2),
+    margin = dict(l=50, r=30, t=30, b=30))
 
+pie_graph = dbc.Card(
+    [
+    dbc.CardHeader('University Plan Percentage'),
+    dbc.CardBody(
+        dcc.Graph(id='pie',figure=pie,responsive = True))
+    ])
 # sunburst 
 sunburst = px.sunburst(df1,
                        path=['Control', 'Plan', 'Housing', 'college_year'],
                        values='college_year',
                        color='Plan',
-                       color_discrete_sequence=px.colors.qualitative.T10,
-                       title = 'Sunburst Chart')
-sunburst.update_layout(title_x=0.5,margin=dict(t=40, b=10, l=10, r=10))
-sunburst_graph = dbc.Card(dcc.Graph(id = 'sunburst',figure = sunburst,responsive = True), outline=True,color = "Primary")
+                       color_discrete_sequence=px.colors.qualitative.T10)
+
+sunburst.update_layout(title_x=0.5,
+                        margin = dict(l=50, r=30, t=30, b=30))
+
+sunburst_graph = dbc.Card([
+    dbc.CardHeader('Sunburst Graph of University Features'),
+    dbc.CardBody(
+    dcc.Graph(id = 'sunburst',figure = sunburst,responsive = True))])
+    
 
 #map
 # map
@@ -114,16 +136,16 @@ usamap.update_layout(geo_scope='usa',
 usamap.update_layout(legend=dict(
     orientation="h", yanchor="bottom", xanchor="center", x=0.3, y=1))
 
-map_graph = dbc.Card(dcc.Graph(
-    id = 'map',
-    figure = usamap,
-    responsive = True), 
-    outline=True,
-    color = "Primary")
+map_graph = dbc.Card([
+    dbc.CardHeader('Location Pattern of University Plan'),
+    dbc.CardBody(
+    dcc.Graph(id = 'map',figure = usamap,responsive = True))],style = {'height':'100%'})
 
 #app layout 
 app.layout = html.Div(
-    [dbc.Jumbotron(
+[
+# Title and Name 
+html.Div(dbc.Jumbotron(
         [
             html.H1("School Reopening Decisions Research",
                     style={'textAlign': 'center'}),
@@ -132,32 +154,64 @@ app.layout = html.Div(
                 "Led By Bentley Univerisity Students ",
                 className="lead",
                 style={'textAlign': 'center'})
-        ]),
-        dbc.Row([
-            dbc.Col(first_card,width = 4),
-            dbc.Col(pie_graph,width=4),
-            dbc.Col(sunburst_graph,width=4)]),
-        dbc.Row([
+        ])),
+# First Row Introduction, pie and sunburst
+html.Div(
+    [
+dbc.CardDeck([first_card,
+              pie_graph,
+              sunburst_graph])],style={'padding': 20}),
+
+# second row: text and map 
+html.Div([dbc.Row([
             dbc.Col(second_card,width = 4),
-            dbc.Col(map_graph)   
-        ]),
-html.Div([dbc.Button("Variable Inspection", color="primary", block = True,outline=True)]),
+            dbc.Col(map_graph,width = 8)   
+        ])],style={'padding': 20}),
+
+# third rows variables inspections 
+html.Div([
+dbc.Row([dbc.Col(
+    dbc.Alert(
+    [
+        html.H4("Variable Inspection", className="alert-heading"),
+        html.Hr(className="my-2"),
+        html.P("Using barplot and boxplot to inspect the relationship between Plan and other variables"),
+],color = 'light'))
+])
+    ],style={'padding': 20}),
+
+# boxplot and barplot 
 html.Div([
         html.Label('Y axis Choose'),
         dcc.Dropdown(id='yaxis-column',
                      options=[{'label': i, 'value': i}
                               for i in available_indicators]
                      ),
-        dcc.Graph(id='boxplot-with-checklist')], style={'width': '49%', 'display': 'inline-block'}),
-    html.Div([
+        dcc.Graph(id='boxplot-with-checklist')], style={'width': '49%', 'display': 'inline-block','padding': 20}),
+
+html.Div([
         html.Label('Multi-Variables Choose'),
         dcc.Dropdown(id='xaxis-column',
                      options=[{'label': i, 'value': i}
                               for i in indicators], multi=True
                      ),
-        dcc.Graph(id='barplot-with-checklist')], style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
-html.Div([dbc.Button("Data Download", color="primary", outline=True, block = True,href=link)])    
-    ])
+        dcc.Graph(id='barplot-with-checklist')], style={'width': '49%', 'display': 'inline-block', 'float': 'right','padding': 20}),
+
+# model performance and interpretation 
+html.Div([dbc.Row([
+    dbc.Col(
+    dbc.Alert(
+    [
+        html.H4("Model Performance and Interpretation", className="heading"),
+        html.Hr(className="my-2"),
+        html.P("Actual model performance and interpretation"),
+],color = 'light'))
+])],style={'padding': 20}),
+# download button 
+html.Div([
+    dbc.Button("Data Download", color="primary", outline=True, block = True,href=link)],style={'padding': 20})    
+    ],
+    style={'padding': 20})
 
 # callback
 @app.callback(
@@ -177,6 +231,7 @@ def boxgraph(yaxis_column):
 @app.callback(
     Output('barplot-with-checklist', 'figure'),
     [Input('xaxis-column', 'value')])
+
 def bargraph(xaxis_column):
     figure = px.bar(data_frame=df2,
                     x='Plan',
