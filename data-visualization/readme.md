@@ -5,6 +5,7 @@
 App Link: https://university-reopenning.herokuapp.com
 
 
+Page Preview: 
 
 
 ![image](https://github.com/yuxuan0702/Summer-Research-Project-/blob/master/data_vis_demo_page.png)
