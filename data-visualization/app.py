@@ -47,6 +47,7 @@ second_card = dbc.Card([
             html.P("- Politic data is from ")
         ]
     )],style={'height':'100%'})
+
 # boxplot
 available_indicators = ['2018 Fall Enrollment',
                         'Known_Cases_in_County_per_100k_Residents',
@@ -83,7 +84,7 @@ pie.update_layout(legend=dict(
     yanchor="top",
     xanchor="center",
     x = 0.5,
-    y = 1.2),
+    y = 1.3),
     margin = dict(l=50, r=30, t=30, b=30))
 
 pie_graph = dbc.Card(
@@ -92,6 +93,7 @@ pie_graph = dbc.Card(
     dbc.CardBody(
         dcc.Graph(id='pie',figure=pie,responsive = True))
     ])
+
 # sunburst 
 sunburst = px.sunburst(df1,
                        path=['Control', 'Plan', 'Housing', 'college_year'],
@@ -128,13 +130,13 @@ usamap.update_layout(geo_scope='usa',
                      },
                      margin={
                          "r": 0,
-                         "t": 30,
+                         "t": 0,
                          "l": 0,
                          "b": 0
                      })
 
 usamap.update_layout(legend=dict(
-    orientation="h", yanchor="bottom", xanchor="center", x=0.3, y=1))
+    orientation="h", yanchor="top", xanchor="center", x=0.3, y=1.2))
 
 map_graph = dbc.Card([
     dbc.CardHeader('Location Pattern of University Plan'),
