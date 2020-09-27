@@ -9,7 +9,8 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MINTY])
-server = server = app.server
+app.config['suppress_callback_exceptions'] = True
+server = app.server
 
 #dataset download link 
 link = 'https://raw.githubusercontent.com/yuxuan0702/Summer-Research-Project-/master/data-visualization/final_0921_edited.csv'
@@ -36,6 +37,7 @@ first_card = dbc.Card([
             html.P("So we can analysis without any considers to location level")
         ])])
 
+# data source card 
 second_card = dbc.Card([
     dbc.CardHeader('Data Source'),
     dbc.CardBody(
@@ -50,7 +52,6 @@ second_card = dbc.Card([
 
 # boxplot
 available_indicators = ['2018 Fall Enrollment',
-                        'Known_Cases_in_County_per_100k_Residents',
                         'AVG_All_Undergrad_Grant/Scholarship',
                         'AVG_Federal_Student_Loans_Amount',
                         'undergraduate_population',
@@ -79,6 +80,7 @@ colors = ['#4C78A8', '#F58518', '#E45756', '#72B7B2', '#54A24B']
 pie.update_traces(hole=.4,
                   hoverinfo="label+percent",
                   marker=dict(colors=colors))
+
 pie.update_layout(legend=dict(
     orientation="h",
     yanchor="top",
@@ -93,7 +95,6 @@ pie_graph = dbc.Card(
     dbc.CardBody(
         dcc.Graph(id='pie',figure=pie,responsive = True))
     ])
-
 # sunburst 
 sunburst = px.sunburst(df1,
                        path=['Control', 'Plan', 'Housing', 'college_year'],
@@ -108,7 +109,15 @@ sunburst_graph = dbc.Card([
     dbc.CardHeader('Sunburst Graph of University Features'),
     dbc.CardBody(
     dcc.Graph(id = 'sunburst',figure = sunburst,responsive = True))])
-    
+
+ # heat map
+heatmap = px.imshow(df1[available_indicators].corr(),
+                color_continuous_scale='RdYlBu_r')  
+heatmap_graph = dbc.Card([
+    dbc.CardHeader ('Correlation among variables'),
+    dbc.CardBody( 
+        dcc.Graph
+        (id = 'heatmap',figure = heatmap,responsive = True))]) 
 
 #map
 # map
@@ -136,13 +145,42 @@ usamap.update_layout(geo_scope='usa',
                      })
 
 usamap.update_layout(legend=dict(
-    orientation="h", yanchor="top", xanchor="center", x=0.3, y=1.2))
+    orientation="h", yanchor="bottom", xanchor="center", x=0.3))
 
 map_graph = dbc.Card([
     dbc.CardHeader('Location Pattern of University Plan'),
     dbc.CardBody(
     dcc.Graph(id = 'map',figure = usamap,responsive = True))],style = {'height':'100%'})
 
+#bar and box 
+tab1_content = html.Div([
+        dcc.Dropdown(id='yaxis-column',
+                     options=[{'label': i, 'value': i}
+                              for i in available_indicators]
+                     ),
+        dcc.Graph(id='boxplot-with-checklist')],style = {'padding':10})
+
+
+
+tab2_content = html.Div([
+        dcc.Dropdown(id='xaxis-column',
+                     options=[{'label': i, 'value': i}
+                              for i in indicators], multi=True
+                     ),
+        dcc.Graph(id='barplot-with-checklist')],style = {'padding':10})
+#table 
+table = go.Figure(data=[go.Table(
+    columnwidth = [400,80],
+    header=dict(values=list(['Institution','Plan','State','Control']),
+                align=['left','center'],
+                height = 40,
+                font = dict(size = 15)),
+    cells=dict(values=[df1.institution, df1.Plan, df1.State, df1.Control],
+               align=['left','center'],
+               height = 30,
+               font_size = 12))
+])
+table.update_layout(margin = dict(l=0, r=0, t=0, b=10))
 #app layout 
 app.layout = html.Div(
 [
@@ -162,13 +200,13 @@ html.Div(
     [
 dbc.CardDeck([first_card,
               pie_graph,
-              sunburst_graph])],style={'padding': 20}),
+              sunburst_graph])],style={'padding': 10}),
 
 # second row: text and map 
 html.Div([dbc.Row([
             dbc.Col(second_card,width = 4),
             dbc.Col(map_graph,width = 8)   
-        ])],style={'padding': 20}),
+        ])],style={'padding': 10}),
 
 # third rows variables inspections 
 html.Div([
@@ -180,24 +218,34 @@ dbc.Row([dbc.Col(
         html.P("Using barplot and boxplot to inspect the relationship between Plan and other variables"),
 ],color = 'light'))
 ])
-    ],style={'padding': 20}),
-
-# boxplot and barplot 
+    ],style={'padding': 10}),
+#table 
 html.Div([
-        html.Label('Y axis Choose'),
-        dcc.Dropdown(id='yaxis-column',
-                     options=[{'label': i, 'value': i}
-                              for i in available_indicators]
-                     ),
-        dcc.Graph(id='boxplot-with-checklist')], style={'width': '49%', 'display': 'inline-block','padding': 20}),
+    dbc.Card([
+    dbc.CardHeader('Detailed Table of University Plan'),
+    dbc.CardBody([
+        dcc.Graph(id='table',figure=table),
+        dbc.Button("Data Download", color="info",outline=True,href=link)
+    ])]
+)],style = {'padding':10}),
 
-html.Div([
-        html.Label('Multi-Variables Choose'),
-        dcc.Dropdown(id='xaxis-column',
-                     options=[{'label': i, 'value': i}
-                              for i in indicators], multi=True
-                     ),
-        dcc.Graph(id='barplot-with-checklist')], style={'width': '49%', 'display': 'inline-block', 'float': 'right','padding': 20}),
+# tab about variables 
+html.Div([dbc.CardDeck([
+    dbc.Card(
+    [dbc.CardHeader(
+        dbc.Tabs(
+            [
+                dbc.Tab(label="Numerical Variables Choose", tab_id="tab-1"),
+                dbc.Tab(label="Categorical Variables Choose", tab_id="tab-2"),
+            ],
+            id="tabs",
+            card=True,
+            active_tab="tab-1",
+        )
+    ),
+        dbc.CardBody(html.Div(id="content")),
+    ]
+),heatmap_graph])],style = {'padding':10}),
 
 # model performance and interpretation 
 html.Div([dbc.Row([
@@ -208,12 +256,11 @@ html.Div([dbc.Row([
         html.Hr(className="my-2"),
         html.P("Actual model performance and interpretation"),
 ],color = 'light'))
-])],style={'padding': 20}),
-# download button 
-html.Div([
-    dbc.Button("Data Download", color="primary", outline=True, block = True,href=link)],style={'padding': 20})    
-    ],
-    style={'padding': 20})
+])],style={'padding': 10})
+
+    ]
+)
+
 
 # callback
 @app.callback(
@@ -242,7 +289,14 @@ def bargraph(xaxis_column):
                     title='Bar Plot of '+str(xaxis_column))
     return figure
 
-        
+@app.callback(Output("content", "children"), [Input("tabs", "active_tab")])
+def switch_tab(at):
+    if at == "tab-1":
+        return tab1_content
+    elif at == "tab-2":
+        return tab2_content
+
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)
